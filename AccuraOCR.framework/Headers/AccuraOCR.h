@@ -21,6 +21,8 @@ FOUNDATION_EXPORT const unsigned char AccuraOCRVersionString[];
 #import <AccuraOCR/LivenessData.h>
 #import <AccuraOCR/NSObject+Liveness.h>
 #import <AccuraOCR/NSObject+Constant.h>
+#import "NSFaceRegion.h"
+#import <AccuraOCR/EngineWrapper.h>
 
 
 // In this header, you should import all the public headers of your framework using statements like #import <AccuraOCR/PublicHeader.h>
