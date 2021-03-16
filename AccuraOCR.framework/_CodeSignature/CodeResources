@@ -158,63 +158,15 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		x3POXd67+bAsAM4lX2YB/ODH7Kc=
+		F7KBOMIePBq6Pf1fOQzuP2s5mTo=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		pva+QPQaJLW+VLWy4W9HQ62PTDE=
+		a6qJl3s3bjUZlhnV+Kks9FILj3I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		lm4B+dtckRQRK9HtfIF5ZfH2h7A=
-		</data>
-		<key>SVProgressHUD.bundle/angle-mask.png</key>
-		<data>
-		oqIJzVxhZua/CZX+TGK3kylFilY=
-		</data>
-		<key>SVProgressHUD.bundle/angle-mask@2x.png</key>
-		<data>
-		3aAb8SeX29Ro7z1pt6A1yqUAaHs=
-		</data>
-		<key>SVProgressHUD.bundle/angle-mask@3x.png</key>
-		<data>
-		pPD0GLNI2PnWq2CX6UyQ9H52T9g=
-		</data>
-		<key>SVProgressHUD.bundle/error.png</key>
-		<data>
-		oP6f/Zad0pEL8xrimTdNlSXrrpA=
-		</data>
-		<key>SVProgressHUD.bundle/error@2x.png</key>
-		<data>
-		cFCuvbmEkaKmhj2RThSqw/5KUtM=
-		</data>
-		<key>SVProgressHUD.bundle/error@3x.png</key>
-		<data>
-		QSlxhLYpqk8M4tlq+X0hXbamUH0=
-		</data>
-		<key>SVProgressHUD.bundle/info.png</key>
-		<data>
-		CP1bXzRkp6v+a6oAHECMgzhmOIU=
-		</data>
-		<key>SVProgressHUD.bundle/info@2x.png</key>
-		<data>
-		yx+ZQImmZJ+j/av7X/uJpzaqomU=
-		</data>
-		<key>SVProgressHUD.bundle/info@3x.png</key>
-		<data>
-		5MgHR68ek5Ayg9vc2oGqk1wMpdQ=
-		</data>
-		<key>SVProgressHUD.bundle/success.png</key>
-		<data>
-		oQ/IlYYGw5vH/rx4pqvYiNddu8c=
-		</data>
-		<key>SVProgressHUD.bundle/success@2x.png</key>
-		<data>
-		P1jXd1XGKWq/KG50KF6pWjBVwBo=
-		</data>
-		<key>SVProgressHUD.bundle/success@3x.png</key>
-		<data>
-		hmliT+WZg212OTNmAhP+uSOyYio=
 		</data>
 		<key>ZoomHybrid.pub</key>
 		<data>
@@ -506,14 +458,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7iUcpcIPALn0LJ7Kxw/pozh+HSRrNh0RabWzZlDduxg=
+			w4Ao0T48MrkMlMzPHtmDcGUGqGCv1P/GV+cf/r15fZ0=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+r/sVlcAcRc6VHLT6FnzcER7VeSNy5CeclohsB2JhiY=
+			xzR3X814DSNbJTX+xLnA3RPtfFpOA7+viDiVhn2oRe4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -521,90 +473,6 @@
 			<key>hash2</key>
 			<data>
 			p12LVWErLi7caihL3csJqDbC/R0SjHVguINvKgxbhBU=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/angle-mask.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DDw2jnXp1WjofT+IkD6qy3+dLIzDE9vrxNSPoeQO4jo=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/angle-mask@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6QAJXoYU7vQpTdzUcb2HrKhSj6gCcrZb9r6z0J5yK+w=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/angle-mask@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iwwAX8HeeU70vQudb1L6z80VbnuVeJ+zn94jLMovmKs=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/error.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UDk/X+yyN+USnDW9JFp7P9O5irCLZkeybVB1BEDVunA=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/error@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Xc9fgzh3g2FX8j9dYqux/gm+73IDul7Vb0KaMAQZo+E=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/error@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P6wK1oxOL6vyD7o9q9+hP9jctZaTyluZgm1zpKgw0dM=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/info.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GeypxgyrUdKQ8Nyqc9w0q9XLCdtRbk4cJi9EE5QXXs8=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/info@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KLsrQZrjUwrsUtZSul1bJbNH8OTb5+YrjaVW+rbl64Q=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/info@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eer51e9B3uVrPmnlKfYiqok7LLlR6cnUt8JBmo2oG3Y=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/success.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZneDtnotiia14nbyRklrCVgGmnlPcjpSwUjyHSfPeXc=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/success@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hbpOiBtrYWqPZJYnEBIf/dZWn+6rFwHRPp0WzU9gA18=
-			</data>
-		</dict>
-		<key>SVProgressHUD.bundle/success@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EMic5PZw5ab7sBUjL5t1YMrH5WnRAJCbgeMLFJgZQ/Q=
 			</data>
 		</dict>
 		<key>ZoomHybrid.pub</key>
