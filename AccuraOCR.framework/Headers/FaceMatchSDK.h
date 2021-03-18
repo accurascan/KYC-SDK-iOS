@@ -22,5 +22,4 @@ FOUNDATION_EXPORT const unsigned char FaceMatchSDKVersionString[];
 #import "NSFaceRegion.h"
 #import "FaceView.h"
 #import "ImageHelper.h"
-#import "NSObject+Facematch.h"
 

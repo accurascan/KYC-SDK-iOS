@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
-		h/bGVVhTvyQkDfRAQkojcreIFQQ=
+		keHb/rc/KetvdPBWBhddGCImeak=
 		</data>
 		<key>Headers/EngineWrapper.h</key>
 		<data>
@@ -106,11 +106,15 @@
 		</data>
 		<key>Headers/FaceMatchSDK.h</key>
 		<data>
-		A+72t5l7cZfvB01FgNoMnZNhWT8=
+		dEDMOUAp1OeZbSf+h9CnpvIywCo=
 		</data>
 		<key>Headers/FaceView.h</key>
 		<data>
 		CeSc5P3jXwKorub33Osrk1BhP0E=
+		</data>
+		<key>Headers/FacematchData.h</key>
+		<data>
+		D50vAfRAsCzLjp9XFkpjH83teaI=
 		</data>
 		<key>Headers/GlobalMethods.h</key>
 		<data>
@@ -126,7 +130,7 @@
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		8R3tg+2CtVpqLYPWsEO//cJzj3I=
+		tHG1SWfXFhBrTjs7SgHkI0l9wrc=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -135,6 +139,10 @@
 		<key>Headers/NSObject+Constant.h</key>
 		<data>
 		abT9ACb+/smzdsRkv8oxlA1o+4s=
+		</data>
+		<key>Headers/NSObject+Facematch.h</key>
+		<data>
+		/XkfnBg1cJam5foZprHu3UDaqZo=
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
@@ -182,15 +190,15 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		RkPb+KSWMsMpKd4DyTmjRtxOZD4=
+		iizXjoqVttdvN42A7BNB2qNe4WE=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		5kVlSQlllXvGpYFyitk0QWrYGhI=
+		Tk8pMwTIFvuzShtMB3tl+xA8kfM=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		JNnUvKidtUow/HTotb56PvIzgCc=
+		G3MWly6Hz+UUJ7/gHCPB8/UpnrY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -388,7 +396,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yFy19ShMpfpIIdNUvnA1dTixwlybClbbTzGlL2nuphs=
+			kTmigDfdBtKZdfDIxVBtuGAA5pmdmnOSgDa5dIqa48c=
 			</data>
 		</dict>
 		<key>Headers/EngineWrapper.h</key>
@@ -402,7 +410,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ha2C3h/zz9+G7zzxktmWuWvo53xNZSR52SmKWyUaXdw=
+			/9w1lVHTdj168O9kO1GsmvjHZ/pYQeRZofA2WKCdFn0=
 			</data>
 		</dict>
 		<key>Headers/FaceView.h</key>
@@ -410,6 +418,13 @@
 			<key>hash2</key>
 			<data>
 			Hx37O1eWExDtas+V5rVEAR/RbmuJtbB7LVPaKidYoNs=
+			</data>
+		</dict>
+		<key>Headers/FacematchData.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F6yoqaUlzYwIllXsXvXFMlJPwqJ6RAIT3SypFM3qX2U=
 			</data>
 		</dict>
 		<key>Headers/GlobalMethods.h</key>
@@ -437,7 +452,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1WMo19TMc8ZpiSGT9KPwlmpvt3kASTbcXsJD0iBMJOA=
+			XEatdrPtG6YvXhZDqwESexfAt0cj0JZkgJv1ZZH/aI0=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -452,6 +467,13 @@
 			<key>hash2</key>
 			<data>
 			gsDVsJOYpZuiyFApZH2vQaBMVrEIJsNmOsyw4AYLfvU=
+			</data>
+		</dict>
+		<key>Headers/NSObject+Facematch.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t179a7Snk9PoS0V3kH0HGrmRL58CatshUFFAYcWywKY=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Liveness.h</key>
@@ -528,21 +550,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			68wQFbL9vlSTAtCDe6atWPPLHUheUpTbT2zoYVQSLF4=
+			u8hv3Vl4CR7zUgR7X/gUUVcFpl8u8IkHS5tVgALVxZc=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eSxA+nZDg2j6azGro0Px7/a8l+whO7ydXlA8lsY+BO8=
+			M3A9DeQWSjD1sNYy9OnLGPYQZlC+N4rBig1D1I2O754=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GBIL+ArWsZDN0Ke//4q3N9HqZrJMfIQydBixWOMP7GU=
+			8yrGmd3zFAZITzunUcyCkzes2RP+6GdbbpyLgVm61ug=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

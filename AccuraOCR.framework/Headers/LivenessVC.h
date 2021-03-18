@@ -15,6 +15,8 @@
 #import "NSObject+userDefaults.h"
 #import "LivenessData.h"
 #import "NSObject+PostResult.h"
+#import "NSObject+Facematch.h"
+#import "FacematchData.h"
 
 
 NS_ASSUME_NONNULL_BEGIN
@@ -33,6 +35,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *_constant_width;
 
 @property (nonatomic, strong) id<LivenessData> delegate;
+@property (nonatomic, strong) id<FacematchData> delegateFacematch;
 @property (nonatomic, assign) bool ischeckLiveness;
 
 

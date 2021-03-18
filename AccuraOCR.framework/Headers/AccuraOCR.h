@@ -19,6 +19,8 @@ FOUNDATION_EXPORT const unsigned char AccuraOCRVersionString[];
 #import <AccuraOCR/AccuraCameraWrapper.h>
 #import <AccuraOCR/SDKModels.h>
 #import <AccuraOCR/LivenessData.h>
+#import <AccuraOCR/FacematchData.h>
+#import <AccuraOCR/NSObject+Facematch.h>
 #import <AccuraOCR/NSObject+Liveness.h>
 #import <AccuraOCR/NSObject+Constant.h>
 #import "NSFaceRegion.h"
