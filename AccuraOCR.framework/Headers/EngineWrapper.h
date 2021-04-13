@@ -2,7 +2,7 @@
 //  EngineWrapper.h
 //  FaceMatch
 
-
+#if !TARGET_OS_WATCH
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import "ImageHelper.h"
@@ -21,3 +21,4 @@
 +(double) Identify:(NSData*)pbuff1 featurebuff2:(NSData*)pbuff2;
 
 @end
+#endif

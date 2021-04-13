@@ -1,7 +1,7 @@
 //
 //  NSFaceRegion.h
 
-
+#if !TARGET_OS_WATCH
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 @interface NSFaceRegion : NSObject
@@ -15,3 +15,4 @@
 @property (assign, atomic) UIImage* image;
 
 @end
+#endif

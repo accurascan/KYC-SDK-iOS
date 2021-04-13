@@ -5,7 +5,7 @@
 //  Created by Technozer on 15/06/20.
 //  Copyright © 2020 Technozer. All rights reserved.
 //
-
+#if !TARGET_OS_WATCH
 #import <Foundation/Foundation.h>
 
 //! Project version number for FaceMatchSDK.
@@ -22,4 +22,6 @@ FOUNDATION_EXPORT const unsigned char FaceMatchSDKVersionString[];
 #import "NSFaceRegion.h"
 #import "FaceView.h"
 #import "ImageHelper.h"
+
+#endif
 
