@@ -15,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Liveness : NSObject
 
--(void) setLivenessAndFacematch:(UIViewController*)livenessView ischeckLiveness:(bool)ischeckLiveness;
+-(void) setLiveness:(UIViewController*)livenessView;
 
 
 -(void)setBackGroundColor:(NSString*)backGroundColor;
