@@ -10,7 +10,7 @@
 #import <UIKit/UIKit.h>
 #import "VideoCameraWrapperDelegate.h"
 #import "SDKModels.h"
-#import "Firebase.h"
+
 #import "ResultModel.h"
 
 typedef NS_ENUM(NSUInteger, CameraFacing)
@@ -27,18 +27,19 @@ typedef NS_ENUM(NSUInteger, CardSide)
 
 typedef NS_ENUM(NSUInteger, BarcodeType)
 {
-    ean8 = FIRVisionBarcodeFormatEAN8,
-    ean13 = FIRVisionBarcodeFormatEAN13,
-    pdf417 = FIRVisionBarcodeFormatPDF417,
-    aztec = FIRVisionBarcodeFormatAztec,
-    code128 = FIRVisionBarcodeFormatCode128,
-    code39 = FIRVisionBarcodeFormatCode39,
-    code93 = FIRVisionBarcodeFormatCode93,
-    dataMatrix = FIRVisionBarcodeFormatDataMatrix,
-    upca = FIRVisionBarcodeFormatUPCA,
-    itf = FIRVisionBarcodeFormatITF,
-    qrcode = FIRVisionBarcodeFormatQRCode,
-    upce = FIRVisionBarcodeFormatUPCE,
+    ean8,
+    ean13,
+    pdf417,
+    aztec,
+    code128,
+    code39,
+    code93,
+    dataMatrix,
+    upca,
+    itf,
+    qrcode,
+    upce,
+    codabar,
     all
 };
 
@@ -91,7 +92,7 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 -(void)setLivenessGlarePercentage:(int)glareMin glareMax:(int)glareMax;
 -(void)setLivenessBlurPercentage:(int)blur;
 -(void)setMinFrameForValidate:(int)minFrame;
--(void)accuraSDK;
+//-(void)accuraSDK;
 -(void)SetCameraFacing:(CameraFacing)camera;
 -(void)SwitchCamera;
 -(void)setBlurPercentage:(int)blur;

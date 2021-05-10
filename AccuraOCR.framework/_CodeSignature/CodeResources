@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		f8OlsMWu8/qLrYZ5Y/46HZKGvFI=
+		36RX9QyEKneZtXHSw014hm52klQ=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
 		<data>
-		MZanR8q8sjyPYdJpvRjr/R+XaJc=
+		8Jlzhf9VNkz7O6xcRDTIEoCjOyw=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -76,9 +76,13 @@
 		<data>
 		6ny23cax5EGQNgpJKSnhJUhpxtQ=
 		</data>
+		<key>GoogleMVTextDetectorResources.bundle/tflite_langid.tflite</key>
+		<data>
+		7HSIAQWybgEckhODNRSbO0NA3oQ=
+		</data>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
 		<data>
-		ixRR2K5ZEPmzRLTzVw1N8fzeIT0=
+		66UmXr+gf7XJ71vLnqjAwes9Mnw=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
 		<data>
@@ -94,7 +98,7 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		GIz3/W1Yaii1ovNQyD7GbPKWQ6I=
+		PfnVWv8Fg6HdCEUFKhZSfdFV1j8=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -186,19 +190,19 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		ZczLTQMZq306KsAz4GJXSF+KvcU=
+		kwCZC70n7AQtFvr4/Vfsbpl9EWU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		TEWUQJFVA6YVdpRUi5ZRNeaMk4M=
+		tuBeiIfLIbGOtiKLeM940NZYBN4=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		GpzkXWJ2vYGA7ZzWwqz5wSS9jz4=
+		HsmIi5Nt/MSjw3S0g4jQpQqrYW0=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		vIz3w2YY1wzVw1nFVKNbujYT7OY=
+		wPYozcnYVl4TMVZD1f/VZtr9kd0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -263,7 +267,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8179DzwLOP7U0g0O5mTdR13eEJV1WIC2Ug4tZu+Pm5s=
+			mikYQcQa4hOv9HPicS12FvbyQ/3ULguIIz7AZC54Fgs=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -333,7 +337,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			stAQMjtunFDA8j8+oYjt+TZiB2P6ZxToEeq5AMV9sUk=
+			wdZ+zWjekPJCMemZCJmfbbADI4dwdwPj0+tL2tuHdwQ=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -357,11 +361,18 @@
 			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
 			</data>
 		</dict>
+		<key>GoogleMVTextDetectorResources.bundle/tflite_langid.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g9SKOS50SMnJHvaBluGbAxQB/e5FMKcbR06Hr6dF/n0=
+			</data>
+		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WWAFDedH5yYOYcmXOrtzF8y39iXBQE6/iRjBKrvI7P4=
+			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
@@ -389,7 +400,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/v9phKro4SJchU0jDwvx7+EmZcYG8OpvfIO5e7Ox6Rg=
+			IjNlVMwJznxe0xadj9DA7g9nHq5kg8P/lsikH3gzUz4=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -543,28 +554,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
+			1Hn1OBOYkz1QQQXNpJQR7sZzVMgIdVmzfY+Kpg2XBVs=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1fOKHdkVH3U31XiKNVYVkHWt/2sALQTZwQ2hu0MHeyA=
+			P2xdnN0UEj5TMb8uz8zj3oTNJVpnXVY1WoMk9YBr/2w=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wqyh3LTSLCMdy8zQwRKONbbHeWgj65/g/fgQnjISiME=
+			1+Y9O30PmVoS5d74tWW6hBUwzycxaypXrk9t/DE+g48=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5CGPg4sbG3H+x3sgRAjYDyVgPcACd6lqcNlxUt0F7WY=
+			w6X/EA0sDk+APjqSZHXdV8rOTAnA/6XlFmAAQZrYAik=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
