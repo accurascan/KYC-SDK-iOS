@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		PfnVWv8Fg6HdCEUFKhZSfdFV1j8=
+		zxivnjQLLXwAJ3imATiqT4DQB/I=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		9ABUw3auXtK2J1CnPork3Cme3NU=
+		pMbwj76Ew13/pHLrqBigQgVNmTs=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -190,19 +190,19 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		kwCZC70n7AQtFvr4/Vfsbpl9EWU=
+		ZczLTQMZq306KsAz4GJXSF+KvcU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		tuBeiIfLIbGOtiKLeM940NZYBN4=
+		pAGqja/PNKkFZuyj3+Lot8FjLXw=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		HsmIi5Nt/MSjw3S0g4jQpQqrYW0=
+		LOvPQoClERzYRMJE9N7rcUqhypA=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		wPYozcnYVl4TMVZD1f/VZtr9kd0=
+		cEcpL5bhM/Hou0krPHcinWA3B/M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -400,7 +400,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IjNlVMwJznxe0xadj9DA7g9nHq5kg8P/lsikH3gzUz4=
+			62qIbeIsodOAtFedR8IUFW7vLdEZlQdorVbVGh2YmYc=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -491,7 +491,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nyYSUNwC2WM6E03wT8jgH4KwYYv1iVmIsIQ2gMU/ad8=
+			EKItXBcIqBIFcbhwfpziCqz7ZpSVpYpaiq4PZthPZAs=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -554,28 +554,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Hn1OBOYkz1QQQXNpJQR7sZzVMgIdVmzfY+Kpg2XBVs=
+			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P2xdnN0UEj5TMb8uz8zj3oTNJVpnXVY1WoMk9YBr/2w=
+			SqzF2vaF27pHHmM0NvwggT9VHV88cYG86aJqR2u9GeA=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1+Y9O30PmVoS5d74tWW6hBUwzycxaypXrk9t/DE+g48=
+			JYuT+iqNA8VvI8tF0sosf0c7LZimjVP35uOyVxSaTR0=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w6X/EA0sDk+APjqSZHXdV8rOTAnA/6XlFmAAQZrYAik=
+			el5l7j4bpJQvzCoiebsNeY+oIr6a7XwR/YCwSg5lxKM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
