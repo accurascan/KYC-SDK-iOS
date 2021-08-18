@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		66NXsseuzI8LrzhRH4QvR2fA95Y=
+		CYfQueehrLd1oiwpJXJQAwExej4=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		36RX9QyEKneZtXHSw014hm52klQ=
+		FDvBXei+oHN39JWiqsf8S6If86k=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
 		<data>
-		8Jlzhf9VNkz7O6xcRDTIEoCjOyw=
+		DjMy9at9gsQb2p4G8zuC+8l+F6w=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>Headers/ResultModel.h</key>
 		<data>
-		TUkOa5gfcsg/fGaTz7eH/yUgCcQ=
+		DDswXhLGdIVhYknL3MFDk9TGV5k=
 		</data>
 		<key>Headers/SDKModels.h</key>
 		<data>
@@ -182,7 +182,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gzS+tgYBDAHRa1mYXtqPJBym1v8=
+		pPf3IH+ZV/0IFyf8wRJuQEgJrFs=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -190,19 +190,19 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		kwCZC70n7AQtFvr4/Vfsbpl9EWU=
+		ZczLTQMZq306KsAz4GJXSF+KvcU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		I4t5AfC2qroT1O8iAMA6A1deJvo=
+		dMRJ4pEr3naeqxtyP6qrsNTU4so=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		sGYtzcs1MsEt62uNmFcBTK6bBO8=
+		VoKg2UHFlBm/XMbLalv4FH7vFhs=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		GWiZps2QahE2hg+vewKkyROhN3Q=
+		VpOBVea8SvFTsSW7bOoBHAJ41K4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -239,7 +239,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WVM6ePo28y21fwk2hBuVu88dzwJmI/trSY1le2uwdcU=
+			n6p19GswY+Ov30X2wlpjCBrOIKmBzOMXW2pBzQvfkDo=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -267,7 +267,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mikYQcQa4hOv9HPicS12FvbyQ/3ULguIIz7AZC54Fgs=
+			VmdBbIGYV6X0nnaAILWQOTquLl7Xhp3dZqYrkM6Ztmo=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -337,7 +337,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wdZ+zWjekPJCMemZCJmfbbADI4dwdwPj0+tL2tuHdwQ=
+			3FtIyc3idcuAkOYXO7DPz3sZnsJ3lLbXX9kr0iDUrpM=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -512,7 +512,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2PYYcHaddHrdO/q9hy9qz1HlggnUoI5If1gVU2XmYQY=
+			VuyZNg9D/zARYuLCNwx9T7/NDgTej9m6xQXsqToCPp4=
 			</data>
 		</dict>
 		<key>Headers/SDKModels.h</key>
@@ -554,28 +554,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Hn1OBOYkz1QQQXNpJQR7sZzVMgIdVmzfY+Kpg2XBVs=
+			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			djBYsPfylY7rC5CwpZocC86eVlR4g6sPwDQxnCzZaig=
+			jEhETtzXQya5G2HTA0Zx+DraSuuNflDxrLZzxXMun/w=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e9ZbJDFZhJ8PUcMDXpfcs19rnOPZ97r09c1ZFNCOtq8=
+			zjFGPe69d456payVnHZiJS8TWcYrsQ5mSWceKJHYMbw=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WD61hm78hQReg41SoieZ52BM2gsWmomn50WSvpQzb+0=
+			w8/bQgQ1d8D+o1Y9QvNGpTePbZCaDv+eSXy/XsclUy0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
