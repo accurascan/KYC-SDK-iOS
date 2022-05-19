@@ -11,7 +11,8 @@
 
 
 @protocol LivenessData <NSObject>
--(void) LivenessData:(NSString*)stLivenessValue livenessImage:(UIImage*)livenessImage status:(bool)status;
+-(void) LivenessData:(NSString*)stLivenessValue livenessImage:(UIImage*)livenessImage status:(bool)status imagePath:(NSString*)imagePath;
 -(void) livenessViewDisappear;
+-(void) didChangedLivenessState:(LivenessType)livenessState;
 @end
 
