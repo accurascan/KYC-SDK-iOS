@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		bk51uJyCAbHiCB5FGye0XKCxVPE=
+		i/k337XHEpOHMozT8nb8WpRppxk=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		csSvzPglCo3D5H7i5Y1/fkQ7IAw=
+		z4DBXIDYB/WHXV8xM4rFDQHpCy0=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Headers/LivenessData.h</key>
 		<data>
-		TbxCipns6kTyX01q4kgcSH192kY=
+		jrF09l2NzmAnhiGq4yK58BBLcfI=
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		zgAx5wmdx6ty1BZBX8TkjDMb/n4=
+		M08Qjr9KU0FN56k2b8AugC8Jh6M=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -114,11 +114,11 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		/XlHRDYhmmHlrQ/64CWZY3Z36Uc=
+		ru2TT++1dERLjCHP2GIMVQ0dW7k=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		fSM+tdwdWwgmRjWRaGdc2Akh7Iw=
+		Ml0ixW3cz0gbMgdH7TWx40q8Fz0=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		pj5+O+1ICK6+wnX0NcqyPI3nc6M=
+		AIrWmXw6iXDi5VRJvlKofrmqvlo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		cBdkiey1QIlbSqJD3NcAfyZUeSA=
+		ST70iT8XtP60PCCnku5Wu+agCKA=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		yCrBohOAbLt6Ajf3Ga/faycdY2g=
+		Jm0RhlceZNELUR55YcfLLSrkJaE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -218,7 +218,7 @@
 		</data>
 		<key>approved_sign.gif</key>
 		<data>
-		qP254C52OQQWaGVqhJw8W5iSG+U=
+		3eSzXq+bL645yypL943eZs66S24=
 		</data>
 		<key>fdata.xml</key>
 		<data>
@@ -255,7 +255,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CdDksMck4LoyZ+RKUUx/uOaqoua0WpI7eMFI0MJG1cc=
+			BdmuUTdEKyvY5iAB8fPqeTkiwB6pSg6B3yKWBt8OAVc=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -283,7 +283,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0DQJYw1fSedtUkAmjwM3oYVDNqq4BLQmO8DAZtMLdo=
+			gew9YSUY+vz7g9x1VmRBWFlWnwPywWa624zxWr5nr1w=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -409,14 +409,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kUWPNGRkj/GrKBbKOxr+domwjyiDlkG8kDBhgfvyc5s=
+			VqV37CEV02TOiXedL/mUpY4Lfh9uoWeErGDcr+lSV8w=
 			</data>
 		</dict>
 		<key>Headers/LivenessVC.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pFd/HCwc8WhQWHkftPgvO4sI2o/BN3tAr8ZCKvBziBs=
+			qnfcUJAmN+kHSNExjNd73CJAvcH1rny6hivclXUuEEM=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -444,14 +444,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lu/W2WjL41GCwI3bQ6j87ONJMNx7x4J8cyY4B24IVq8=
+			hHxjoGEw5ce9SYOPXQzif6iD30RPJnqU8NEHXiDSxRM=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iJ0D1vpc3Mpn1Ti2qrF24XvgN8fuOSMcakvPq6+MoIA=
+			4gbuvGjjNVhVVHgu57RbxkKchMKDtUv4ylsFpLZ/cQU=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -493,7 +493,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4gynA2gDVPLyUTTwBRPsdQJ8f1E5X7g3T3YJvWxDQzE=
+			8cfjcWc+tRrOyUX8gWFtzrHXxEHIT38FzM/n/AiSMFA=
 			</data>
 		</dict>
 		<key>LICENSE.txt</key>
@@ -507,7 +507,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0zV1ICYO5WxcCxLXvp5dQbdXOUK4yqz62X/uZWiTZKM=
+			T9T29I5aYRQeJtaIePJez32bbPYl5IW5LYA9hKVFw1U=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -591,7 +591,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FUdm3q1seSdmpdX/RsloNsH9HjVTJ+llHMu6MjHnFzg=
+			Sx4yRCON4t1UhgFMks/ZjftBEVTSoCusOfWROYjtEWE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -619,7 +619,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dJbYCWKrKeDHtBqGU6VdENPdJNmdr8r6N/Mn3mnb/wE=
+			tn7m4yfC8ji/46mH54b2msHkVZNX/A79YDa04mvDJUs=
 			</data>
 		</dict>
 		<key>fdata.xml</key>

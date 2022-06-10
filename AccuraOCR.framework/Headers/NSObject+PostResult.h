@@ -16,6 +16,8 @@
 @interface PostResult: NSObject
 {
     ContentType contentType;
+    int timeinterval;
+
 }
 
 typedef void (^SuccessBlock)(NSMutableDictionary* Response);

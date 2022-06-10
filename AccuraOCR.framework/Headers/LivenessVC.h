@@ -42,6 +42,10 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) id<LivenessData> delegate;
 @property (nonatomic, strong) id<FacematchData> delegateFacematch;
 @property (nonatomic, assign) bool ischeckLiveness;
+@property (weak, nonatomic) IBOutlet UILabel *buttonPlaceFaceinFrame;
+@property (weak, nonatomic) IBOutlet UIImageView *lookArrowImg;
+@property (weak, nonatomic) IBOutlet UIImageView *lookLeftArrow;
+@property (weak, nonatomic) IBOutlet UIView *btnPlaceFaceView;
 
 
 

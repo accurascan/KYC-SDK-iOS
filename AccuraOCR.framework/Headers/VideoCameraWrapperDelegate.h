@@ -43,7 +43,7 @@ typedef NS_ENUM(int, ContentType)
 
 -(void)resultData:(ResultModel*)resultmodel;
 -(void)reco_msg:(NSString*)message;
--(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage imagePath:(NSString*)imagePath;
+-(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage imagePath:(NSString*)imagePath :(bool)status :(NSString*)ErrorMsg;
 -(void)screenSound;
 -(void)onUpdateLayout:(CGSize)frameSize :(float)borderRatio;
 -(void)HandleCloseButton:(bool)isCloseButtonHide;
