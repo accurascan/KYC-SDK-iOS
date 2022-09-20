@@ -17,7 +17,6 @@
 #import "NSObject+PostResult.h"
 #import "NSObject+Facematch.h"
 #import "FacematchData.h"
-#import "NSObject+Liveness.h"
 
 
 NS_ASSUME_NONNULL_BEGIN
@@ -34,18 +33,10 @@ NS_ASSUME_NONNULL_BEGIN
 @property (weak, nonatomic) IBOutlet UIImageView *imgView;
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *_constant_height;
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *_constant_width;
-@property (weak, nonatomic) IBOutlet UILabel *labelSec;
-@property (weak, nonatomic) IBOutlet UILabel *labelFaceSteadyMSG;
-@property (weak, nonatomic) IBOutlet UIButton *buttonMic;
-@property (weak, nonatomic) IBOutlet UILabel *labelRandomNumber;
 
 @property (nonatomic, strong) id<LivenessData> delegate;
 @property (nonatomic, strong) id<FacematchData> delegateFacematch;
 @property (nonatomic, assign) bool ischeckLiveness;
-@property (weak, nonatomic) IBOutlet UILabel *buttonPlaceFaceinFrame;
-@property (weak, nonatomic) IBOutlet UIImageView *lookArrowImg;
-@property (weak, nonatomic) IBOutlet UIImageView *lookLeftArrow;
-@property (weak, nonatomic) IBOutlet UIView *btnPlaceFaceView;
 
 
 
