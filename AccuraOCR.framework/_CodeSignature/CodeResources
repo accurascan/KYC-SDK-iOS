@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		QqdW1W8qh3pTtoO6YZUsqX+gUPM=
+		OY0EiipiyMu/j6A4GwjeZSXQ+xw=
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
-		cSaYEzhJl9FPD3KGQRN38BXHjq4=
+		a88023l6y22FYRya9+kt2O+HIVw=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		Cwy1CmuJ+e8hzJ+O0Sh4LS3xRuk=
+		F2VPsTKYKR9MURpI4rOazk9svi4=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -214,11 +214,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iSR9U8dkiQoIvWsyQd+jQzLv/dU=
+		loTmD0Z+rDAYuLsH/lOkmqbmkzY=
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
-		KTAK6m/l8oK1Hiv7TLgS9qpydjQ=
+		ExJ+ayQ2qTqrtmOSolwQxAMyzQE=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -282,7 +282,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		LMrGt1DkA2gvdC6vEFIZ7rgSBJc=
+		FFMqB9EM4oCXlE/pYZR7ldzmn5w=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -350,7 +350,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		Q+5pF0gDZ712NVr+Y55JQO/BX5U=
+		AAEjxjZKxnPZqFLhA/eQqrdgZW8=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -390,15 +390,15 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		t5uDYqbIP376f0C0/FshdlcO4cc=
+		yaS+5wQSD8YRF9gHUSPbMpaUO2o=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		WDvKa6A4a+5a9jmePhRwlfd7w14=
+		+Z4f00TC4UX9Cz24HgADWQvqfrE=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		lPHTXBrc9OmGg6eIVVHAYbqcY4U=
+		BTgrZoltwcRnT/HwyeMy0R/7eb0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -435,14 +435,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pfiXPDRdwH6FuzYlEtyBnxLZBA0GldqFBrVxhPFQ8Rk=
+			238T29G0Js/m6HS04dqQ7gxKqSxBl1FRiR8JCXX1VCk=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zds5ZD8xqtZoEicI5ub3vi5w+GjddORGxq2eMH6b6uo=
+			2wCE6PwO5uI+tTgzLHKqrspQgl8H6qwkYxvjluIuk6E=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -582,7 +582,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hKW/wRrEU8ZZaKPSL1Qcw9bYnvbAiFurodUG2LhudAo=
+			BfGR5UzyJ1HAsvZ/f202nqYWRDmcpno6cOggjUNhcgI=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -799,7 +799,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BU7VpAcuCSW21EANc5bvlYci9HD6WIA6SCloFPwsoME=
+			kFyMHMGeU+JAMQNL0xLKI063wEiBBZqKPb3d+9iVLOk=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -911,7 +911,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8c4qNCiMNKKd+XYlbTa76qeToNe2doEvwJP2d5IjQpQ=
+			6Milwn24cOZw5Qj75CivmdMPpgGQ+aLu/rM50Ryp+qk=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -1030,7 +1030,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OY2s6bp8bt3ooyuhyeBf5Qhiz06PCy3J3Q7BFcyQNYw=
+			mb0HC5iUBciki7ueabCPOpuFl1FJipk3fw7cHZ82uwA=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1100,21 +1100,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuX/Uc51yS3BV1EQ5zHWUA7PG0+6uwPiR0gCFKn9jJw=
+			hnPy79rxY+kn24xdMY6Zr2cZUXgBq/uaoRyJEULCFNQ=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			27SiHrOjo5BKD9Dqfn4Vgu0dL7GnfpNufWk3QqMBqvc=
+			qoZS54SOBFu0L9uy3RJHIc1qE1oh0uh+V47tok8utYI=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ckqlzx+7Xl+L5f6YVdDzUVsE8VVD9BmHV/B1s7oVaSA=
+			w47Qgq+kIeL7yKrv7vgcGZ5wMeKjFyf3m1xW5HS7s60=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
