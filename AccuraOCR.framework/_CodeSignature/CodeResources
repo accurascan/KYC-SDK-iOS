@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		OY0EiipiyMu/j6A4GwjeZSXQ+xw=
+		MPLFDghY8RjSQd6PBTX5yaF8+aQ=
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
-		a88023l6y22FYRya9+kt2O+HIVw=
+		Mz7YksaAIfzCkCzJC5tPicDJatE=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		F2VPsTKYKR9MURpI4rOazk9svi4=
+		LfdTqvhi2WStuHosNk8OVFB0Nqg=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		hQJTDM+7fFDPziD+maUwrCGtNe0=
+		n8tHeODSUaN3hqgCu/PLJwSPMHU=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -214,11 +214,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		loTmD0Z+rDAYuLsH/lOkmqbmkzY=
+		B6barmUP9ak6sVVyuZPtX8pr/Hk=
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
-		ExJ+ayQ2qTqrtmOSolwQxAMyzQE=
+		O6dI5F4xXLay2xyKqbEHA33ZMWo=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -282,7 +282,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		FFMqB9EM4oCXlE/pYZR7ldzmn5w=
+		/VIAUe3ii1PwZTOGVmHv/ewZrdU=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -350,7 +350,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		AAEjxjZKxnPZqFLhA/eQqrdgZW8=
+		a0hYLfgixZ92dhyPOg0/WWnyd/8=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -394,7 +394,7 @@
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		+Z4f00TC4UX9Cz24HgADWQvqfrE=
+		57+sCidPUhc8UeTfuI4BMJo4tOQ=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
@@ -435,14 +435,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			238T29G0Js/m6HS04dqQ7gxKqSxBl1FRiR8JCXX1VCk=
+			IIWDYyWbo0kM2EYPS18ueLFBd6JKhssjJzeIWooHny0=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2wCE6PwO5uI+tTgzLHKqrspQgl8H6qwkYxvjluIuk6E=
+			KMCbWRm05mwIsnuHha1RV3AjEeGTQiv1AO6iKWQl0AU=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -582,7 +582,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BfGR5UzyJ1HAsvZ/f202nqYWRDmcpno6cOggjUNhcgI=
+			e4xmOd9jdNpi991emZr0L3f5WrwnYSAeOCuEawtA6rk=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -652,7 +652,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oUb69vdNJLBE6RMByZyPPnS4RajZJEgi7GYhgGB+0eY=
+			bYQymapw3NlpnsO1iKiW7KA8BZNUsOkXlenYPFgZkNU=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -799,7 +799,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kFyMHMGeU+JAMQNL0xLKI063wEiBBZqKPb3d+9iVLOk=
+			PP5QJ5/9znnJF0uMOd+sXZEntNC8SZGB+itadjnxlrM=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -911,7 +911,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Milwn24cOZw5Qj75CivmdMPpgGQ+aLu/rM50Ryp+qk=
+			BR5G8A8z43s7bSm4tmCV4sjh+9YkCTUfNyvZCUA69rk=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -1030,7 +1030,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mb0HC5iUBciki7ueabCPOpuFl1FJipk3fw7cHZ82uwA=
+			og9Cugk7HBnk1LfjsDb0YHivworKfygBmE7vDKYWLbM=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1107,7 +1107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qoZS54SOBFu0L9uy3RJHIc1qE1oh0uh+V47tok8utYI=
+			wD/zNqAcZWMKpIRxzFz2VEhOy+6NDEicRhRRMRgI6qI=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
