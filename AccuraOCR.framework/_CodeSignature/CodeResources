@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		QqdW1W8qh3pTtoO6YZUsqX+gUPM=
+		MPLFDghY8RjSQd6PBTX5yaF8+aQ=
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
-		cSaYEzhJl9FPD3KGQRN38BXHjq4=
+		Mz7YksaAIfzCkCzJC5tPicDJatE=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		Cwy1CmuJ+e8hzJ+O0Sh4LS3xRuk=
+		LfdTqvhi2WStuHosNk8OVFB0Nqg=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		hQJTDM+7fFDPziD+maUwrCGtNe0=
+		VS1Nc2ICfKS8i2KW9Y6aAgWhnMs=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -182,11 +182,11 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		pMbwj76Ew13/pHLrqBigQgVNmTs=
+		lJwW+uHcfwHhtPNF4Wdt9Q3EAVc=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		Yb7FsDfO34KkccEMzNrzXQdzTII=
+		tA8aDlAIBdq2k7iIA4bAmo2CseI=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -214,11 +214,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iSR9U8dkiQoIvWsyQd+jQzLv/dU=
+		B6barmUP9ak6sVVyuZPtX8pr/Hk=
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
-		KTAK6m/l8oK1Hiv7TLgS9qpydjQ=
+		O6dI5F4xXLay2xyKqbEHA33ZMWo=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -282,7 +282,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		LMrGt1DkA2gvdC6vEFIZ7rgSBJc=
+		/VIAUe3ii1PwZTOGVmHv/ewZrdU=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -350,7 +350,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		Q+5pF0gDZ712NVr+Y55JQO/BX5U=
+		a0hYLfgixZ92dhyPOg0/WWnyd/8=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -390,15 +390,15 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		t5uDYqbIP376f0C0/FshdlcO4cc=
+		yaS+5wQSD8YRF9gHUSPbMpaUO2o=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		WDvKa6A4a+5a9jmePhRwlfd7w14=
+		57+sCidPUhc8UeTfuI4BMJo4tOQ=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		lPHTXBrc9OmGg6eIVVHAYbqcY4U=
+		BTgrZoltwcRnT/HwyeMy0R/7eb0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -435,14 +435,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pfiXPDRdwH6FuzYlEtyBnxLZBA0GldqFBrVxhPFQ8Rk=
+			IIWDYyWbo0kM2EYPS18ueLFBd6JKhssjJzeIWooHny0=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zds5ZD8xqtZoEicI5ub3vi5w+GjddORGxq2eMH6b6uo=
+			KMCbWRm05mwIsnuHha1RV3AjEeGTQiv1AO6iKWQl0AU=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -582,7 +582,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hKW/wRrEU8ZZaKPSL1Qcw9bYnvbAiFurodUG2LhudAo=
+			e4xmOd9jdNpi991emZr0L3f5WrwnYSAeOCuEawtA6rk=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -652,7 +652,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oUb69vdNJLBE6RMByZyPPnS4RajZJEgi7GYhgGB+0eY=
+			EY5wk1amg/1wRrAl4CNBMkcJZVTfjaOWLOC2aJ1Av+k=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -743,14 +743,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EKItXBcIqBIFcbhwfpziCqz7ZpSVpYpaiq4PZthPZAs=
+			/9ZLeABBLhvjfuQUEX9/O7e7NA9f3zLQB5uWyUD8yA8=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MHOVByXLdJ9xD/KPFaYCTSwBh4US++y5O34AKLEZJp8=
+			4TydSMIEstEHzMJOU1qRjQDl3XM1/6Awv7TYvFNOFD4=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -799,7 +799,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BU7VpAcuCSW21EANc5bvlYci9HD6WIA6SCloFPwsoME=
+			PP5QJ5/9znnJF0uMOd+sXZEntNC8SZGB+itadjnxlrM=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -911,7 +911,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8c4qNCiMNKKd+XYlbTa76qeToNe2doEvwJP2d5IjQpQ=
+			BR5G8A8z43s7bSm4tmCV4sjh+9YkCTUfNyvZCUA69rk=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -1030,7 +1030,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OY2s6bp8bt3ooyuhyeBf5Qhiz06PCy3J3Q7BFcyQNYw=
+			og9Cugk7HBnk1LfjsDb0YHivworKfygBmE7vDKYWLbM=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1100,21 +1100,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuX/Uc51yS3BV1EQ5zHWUA7PG0+6uwPiR0gCFKn9jJw=
+			hnPy79rxY+kn24xdMY6Zr2cZUXgBq/uaoRyJEULCFNQ=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			27SiHrOjo5BKD9Dqfn4Vgu0dL7GnfpNufWk3QqMBqvc=
+			wD/zNqAcZWMKpIRxzFz2VEhOy+6NDEicRhRRMRgI6qI=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ckqlzx+7Xl+L5f6YVdDzUVsE8VVD9BmHV/B1s7oVaSA=
+			w47Qgq+kIeL7yKrv7vgcGZ5wMeKjFyf3m1xW5HS7s60=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
