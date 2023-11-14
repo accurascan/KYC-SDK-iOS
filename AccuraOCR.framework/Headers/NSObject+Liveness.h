@@ -52,7 +52,8 @@ NS_ASSUME_NONNULL_BEGIN
 -(void) setFeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage;
 
 -(void) setBlurPercentage:(int)blurPercentage;
-
+-(void) setDefaultText:(NSString*)defaultText;
+-(void) hideLogo:(bool)isLogoHidden;
 -(void) setGlarePercentage:(int) glaremin :(int) glareMax;
 -(void)evaluateServerTrustWIthSSLPinning:(bool)isServerTrust;
 

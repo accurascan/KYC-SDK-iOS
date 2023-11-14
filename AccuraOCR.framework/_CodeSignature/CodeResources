@@ -30,7 +30,7 @@
 		</data>
 		<key>ChineseOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		TK2Nz9+t4frHz4WgqSpzc0nehyI=
+		sWiphwLyKNLSOAXdspftY3M1TkA=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		tLIvjOITumKgWU37s6hrgbMMyPo=
+		JUIn1esDDVQ4E9R5pyZB5Tg7h/s=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		tHG1SWfXFhBrTjs7SgHkI0l9wrc=
+		8WPNdh1ubgCUByfyug/K2f0K4Vc=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		lJwW+uHcfwHhtPNF4Wdt9Q3EAVc=
+		8Wb6dCiswr8Cp7uGpQFEQaQAMwY=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -278,7 +278,7 @@
 		</data>
 		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		5r95FIvMae3KrxmBeybjCQfgeZE=
+		f78SxxXeugHDHKIbwK2lloVV6JY=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -362,7 +362,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		fhFkCJ8sS2xrIR5CFH3vHWXeqGM=
+		k3tf/OPVzvDsN4zrLkbhZGDrylg=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -450,7 +450,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		PzzssAVfgQuYnQBP7T5rob677Mw=
+		a32NSMD71anEVsqcevq1Y0RtXCw=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -498,7 +498,7 @@
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		BTgrZoltwcRnT/HwyeMy0R/7eb0=
+		9R8OdL5uSBtqbkoa9sHO/+O2hXs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -577,7 +577,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sr2vHTnVgkKtbatPrAjzhEYJHPVLpamjFm61ahA8rTU=
+			o49R9fj0ilPilKhjrxoESP7FfF/znmsFVLpa8eUwuoM=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -773,7 +773,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zonml95pg9jvYE9jNS8CCRHhcChqydK6U2zSESC/J4g=
+			8p/JYOChSF1wTIwlOBqws6xLiaBuHDTVkQkZ2Us2e5A=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
@@ -885,7 +885,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XEatdrPtG6YvXhZDqwESexfAt0cj0JZkgJv1ZZH/aI0=
+			/WfbpfSQGiduGM8cczmxrShPTayrF8VM5zRS3ivVkJg=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -913,7 +913,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/9ZLeABBLhvjfuQUEX9/O7e7NA9f3zLQB5uWyUD8yA8=
+			hBOt1bxGMfIpWive3OQofQjPqH9nTAUY9BqGQC45PhE=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -1004,7 +1004,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ehrDdqmvHtmFx4S/ic7b6bDTDjruDQs8WBnMUoGmWlw=
+			IjuvWdM59nftZ/6jET19ancJF9Wtt3DGULwPZGcD+x4=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -1151,7 +1151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xm56wjmoMp3/eDN+mFOk0psldPdQ1IhB4gUao+sFHkI=
+			lxk5cHCLJTERu0NsM3tpN7NpAfUu4jI9O1SJBFptXiw=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -1305,7 +1305,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ojiHd1zkEI2BjZR3CSOqW191SMCH0xyIuz05sxy/k2E=
+			UZT1bYZpAWpQaR2sm1p4mbpg7oRI2e+bGyzECKsv9QE=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1389,7 +1389,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w47Qgq+kIeL7yKrv7vgcGZ5wMeKjFyf3m1xW5HS7s60=
+			aVbukACpWaaUC4bEN3qZqQDdG27gwJtaq9cRKc1S9uE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
