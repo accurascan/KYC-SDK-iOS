@@ -6,171 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		MPLFDghY8RjSQd6PBTX5yaF8+aQ=
-		</data>
-		<key>ChineseOCRResources.bundle/Info.plist</key>
-		<data>
-		Mz7YksaAIfzCkCzJC5tPicDJatE=
-		</data>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		BdmaaPLLODQiCmR1cU6GNNGVr84=
-		</data>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		pnE719UTFf6jcuitUXca9iRZ2FQ=
-		</data>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		sbN6KGsfh6pyGByG05hbP9ppnnw=
-		</data>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		U7XvB7ACuKiZYf+r/IknDR4Wvvg=
-		</data>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		sWiphwLyKNLSOAXdspftY3M1TkA=
-		</data>
-		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
-		<data>
-		6yAjFG4m90xpSmgqne5+m+vbH94=
-		</data>
-		<key>ChineseOCRResources.bundle/rpn_lstm_engine_tflite_zh_la.bincfg</key>
-		<data>
-		YiWX4aXrHFL+DIrcBBh9le0lkAM=
-		</data>
-		<key>ChineseOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<data>
-		6ny23cax5EGQNgpJKSnhJUhpxtQ=
-		</data>
-		<key>ChineseOCRResources.bundle/seastar_lstm_recognizer_zh_0.2.class_lst</key>
-		<data>
-		adrSXOqpW1Kb6D/LZjmeVDFVIhQ=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_langid.tflite</key>
-		<data>
-		/LcQXDvm1hHXPLE3IVulrhpZePE=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<data>
-		66UmXr+gf7XJ71vLnqjAwes9Mnw=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<data>
-		68PK2+uslXMmEpqkRadeVy2t0PE=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<data>
-		BQIj06B3MVer0TIFCE1lwPQqAQ8=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<data>
-		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_zh_0.1.bincfg</key>
-		<data>
-		6xMXfn4dRnBEVK825Ka6Vin7or4=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_zh_0.1.class_lst</key>
-		<data>
-		Z8fKDfIm7HyHw/ABxupqHCNipw0=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_zh_0.1.conv_model</key>
-		<data>
-		PRXYcqs+a3MxQpcXM7uJ3D5YyNI=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_zh_0.1.lstm_model</key>
-		<data>
-		DEkfv8Op7aI6trJmL6MPaAGI3EQ=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_script_detector_0.3.bincfg</key>
-		<data>
-		5MmtO8fgFZsFpMhfSx6SQO3xCPc=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_script_detector_0.3.conv_model</key>
-		<data>
-		fhAXDMdVrwuXF7oJd7GqC1q2Hlc=
-		</data>
-		<key>ChineseOCRResources.bundle/tflite_script_detector_0.3.lstm_model</key>
-		<data>
-		zci5bAUMLsNm5zn+xMeKJmtX8pE=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
-		<data>
-		96Uw5p4tLIiDbN11Du0p0c5xqE8=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLlefteyeclosed_200.emd</key>
-		<data>
-		KBTvwnLXsoe2PIlGUwZzMUOp5k8=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLrighteyeclosed_200.emd</key>
-		<data>
-		fW6O7h6Je5DNmNrbOeCGmAixyLI=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
-		<data>
-		LfdTqvhi2WStuHosNk8OVFB0Nqg=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
-		<data>
-		trY9XrpS4DxHzs3eHljZHIJNHrI=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_accgray.pb</key>
-		<data>
-		tq7fRawRQ359i/c0FEVvpQ6Oee0=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
-		<data>
-		DP+qJf0czliL6znGLVx90ASNzCY=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		7X6qmEe8hTi5L1XlnypweomF3KU=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		uP9FKhr3Pf0Eqhs6G+1Q5LF/2I0=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		Lm9FpfCO9V4EcqznfsPFJ6VHRkc=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		MhB3UG8viKa+dwO2iK7bMpceck0=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		JUIn1esDDVQ4E9R5pyZB5Tg7h/s=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
-		<data>
-		oseYQ/EQxo7JsNpdNgo4YVLh7a4=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/contours.tfl</key>
-		<data>
-		PaAh9+zFw3Is4fLMn5iQsLG5M34=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_gray_v1.tflite</key>
-		<data>
-		VCp0NyrYJWQnYbGaxVv0Vzy0IeA=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_v1.tflite</key>
-		<data>
-		AHaxev+fV4YGoIDboAUFlxfISmY=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_gray_v1.tflite</key>
-		<data>
-		Rd53RFFpKHZNvbiDaE2p4XxjbY0=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_v1.tflite</key>
-		<data>
-		RxtbTN3LjpFChp3tmniX3KD+dsE=
+		TKY7+d5kUazRYKp0SLmR8Xcql7s=
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		VS1Nc2ICfKS8i2KW9Y6aAgWhnMs=
+		9fwLMRJak9/FJLgGoFW/611ZMX0=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -206,7 +46,7 @@
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		8WPNdh1ubgCUByfyug/K2f0K4Vc=
+		tHG1SWfXFhBrTjs7SgHkI0l9wrc=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -218,11 +58,11 @@
 		</data>
 		<key>Headers/NSObject+Facematch.h</key>
 		<data>
-		/BlHDJoraz7cdniUGq55h0Rdsjw=
+		/XkfnBg1cJam5foZprHu3UDaqZo=
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		8Wb6dCiswr8Cp7uGpQFEQaQAMwY=
+		lJwW+uHcfwHhtPNF4Wdt9Q3EAVc=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -234,7 +74,7 @@
 		</data>
 		<key>Headers/ResultModel.h</key>
 		<data>
-		DDswXhLGdIVhYknL3MFDk9TGV5k=
+		PxVK2zzjo3P/uAaIrHmdgAM4H1g=
 		</data>
 		<key>Headers/SDKModels.h</key>
 		<data>
@@ -254,235 +94,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B6barmUP9ak6sVVyuZPtX8pr/Hk=
-		</data>
-		<key>JapaneseOCRResources.bundle/Info.plist</key>
-		<data>
-		O6dI5F4xXLay2xyKqbEHA33ZMWo=
-		</data>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		o864TfsKwH+UEZ/5dec+ga2ItbQ=
-		</data>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		JC9zHrpvc9iPpRPi5afhYch1eFI=
-		</data>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		fQUnU6qhA77XZdFBRNYt33xxGdM=
-		</data>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		xn7swnsu8Ml9ronclx/imCShCSs=
-		</data>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		f78SxxXeugHDHKIbwK2lloVV6JY=
-		</data>
-		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
-		<data>
-		6yAjFG4m90xpSmgqne5+m+vbH94=
-		</data>
-		<key>JapaneseOCRResources.bundle/rpn_lstm_engine_tflite_ja_la.bincfg</key>
-		<data>
-		oYaQKiRlft1F8W0nTHbAXSJlQfQ=
-		</data>
-		<key>JapaneseOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<data>
-		6ny23cax5EGQNgpJKSnhJUhpxtQ=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_langid.tflite</key>
-		<data>
-		/LcQXDvm1hHXPLE3IVulrhpZePE=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_ja_0.1.bincfg</key>
-		<data>
-		wKwF1fe2+XORjcB+LHIqFQnUYb8=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_ja_0.1.class_lst</key>
-		<data>
-		pJ11ERJfToRR77ML9UJROAABoyE=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_ja_0.1.conv_model</key>
-		<data>
-		TUnJryped4LL3Lh9tFv/52JbyMc=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_ja_0.1.lstm_model</key>
-		<data>
-		2S0kEX8LYv4bn1t565LhsFTaK4c=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<data>
-		66UmXr+gf7XJ71vLnqjAwes9Mnw=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<data>
-		68PK2+uslXMmEpqkRadeVy2t0PE=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<data>
-		BQIj06B3MVer0TIFCE1lwPQqAQ8=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<data>
-		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_script_detector_0.3.bincfg</key>
-		<data>
-		5MmtO8fgFZsFpMhfSx6SQO3xCPc=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_script_detector_0.3.conv_model</key>
-		<data>
-		fhAXDMdVrwuXF7oJd7GqC1q2Hlc=
-		</data>
-		<key>JapaneseOCRResources.bundle/tflite_script_detector_0.3.lstm_model</key>
-		<data>
-		zci5bAUMLsNm5zn+xMeKJmtX8pE=
-		</data>
-		<key>KoreanOCRResources.bundle/Info.plist</key>
-		<data>
-		/VIAUe3ii1PwZTOGVmHv/ewZrdU=
-		</data>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		zMzGeVajfDqiGHEEPdpfFgGszh8=
-		</data>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		kLZbxUyiEfHkbE4j2Eid0o7gwm8=
-		</data>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		URwGzBZmOrOP2DXBWQn3ywGiDZk=
-		</data>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		CQysp4ai5zI+GqqewdpYagFxzo4=
-		</data>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		k3tf/OPVzvDsN4zrLkbhZGDrylg=
-		</data>
-		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
-		<data>
-		6yAjFG4m90xpSmgqne5+m+vbH94=
-		</data>
-		<key>KoreanOCRResources.bundle/rpn_lstm_engine_tflite_ko_la.bincfg</key>
-		<data>
-		MtJnLAdmQSG1d64ulp4aPGEZ1EY=
-		</data>
-		<key>KoreanOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<data>
-		6ny23cax5EGQNgpJKSnhJUhpxtQ=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_langid.tflite</key>
-		<data>
-		/LcQXDvm1hHXPLE3IVulrhpZePE=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.bincfg</key>
-		<data>
-		/6JbS7NQwz/Peq79BYFJUpDd3/I=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.class_lst</key>
-		<data>
-		qHDLtGTNKCI5p4o8dpcD7VLrczQ=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.conv_model</key>
-		<data>
-		Jp79zxvXUMimYItHP76CKUEiSEc=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.lstm_model</key>
-		<data>
-		eb8mPIUHVvFy/6HeFKNJdPw5NZ0=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<data>
-		66UmXr+gf7XJ71vLnqjAwes9Mnw=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<data>
-		68PK2+uslXMmEpqkRadeVy2t0PE=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<data>
-		BQIj06B3MVer0TIFCE1lwPQqAQ8=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<data>
-		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.bincfg</key>
-		<data>
-		5MmtO8fgFZsFpMhfSx6SQO3xCPc=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.conv_model</key>
-		<data>
-		fhAXDMdVrwuXF7oJd7GqC1q2Hlc=
-		</data>
-		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.lstm_model</key>
-		<data>
-		zci5bAUMLsNm5zn+xMeKJmtX8pE=
+		8XPPE5nTrM7iIi5gLbWtI+IG7BY=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
 		U2/Np5cXWRy7J2fimqHYsAj6AZw=
-		</data>
-		<key>LatinOCRResources.bundle/Info.plist</key>
-		<data>
-		a0hYLfgixZ92dhyPOg0/WWnyd/8=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		yVewpbJMhK2SdbNp8f/yfNxDrao=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		up6O+RNrnp8uZiBM9koyTWYAKj0=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		GpqIXco1Ii9eaktmXNKT909p2jI=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		wAcvRDpr4WwSmhX9K6fHkl08qbg=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		a32NSMD71anEVsqcevq1Y0RtXCw=
-		</data>
-		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
-		<data>
-		V2ROSYH9TDZ87SKQfYmC78jkabg=
-		</data>
-		<key>LatinOCRResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
-		<data>
-		W+TF/C0djllwb4ejtlbbwoqIOaA=
-		</data>
-		<key>LatinOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<data>
-		6ny23cax5EGQNgpJKSnhJUhpxtQ=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_langid.tflite</key>
-		<data>
-		/LcQXDvm1hHXPLE3IVulrhpZePE=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<data>
-		66UmXr+gf7XJ71vLnqjAwes9Mnw=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<data>
-		68PK2+uslXMmEpqkRadeVy2t0PE=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<data>
-		BQIj06B3MVer0TIFCE1lwPQqAQ8=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<data>
-		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
@@ -498,11 +114,11 @@
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		9R8OdL5uSBtqbkoa9sHO/+O2hXs=
+		uCVHozVNsWehK8/kpHWmylUsqRE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		lm4B+dtckRQRK9HtfIF5ZfH2h7A=
+		1xhzcBvS6rB+5HKX3Oo87u6JGEE=
 		</data>
 		<key>ZoomHybrid.pub</key>
 		<data>
@@ -511,6 +127,10 @@
 		<key>fdata.xml</key>
 		<data>
 		8MEF54k9TRXjJg++ew/DmG4lAg8=
+		</data>
+		<key>haarcascade_frontalface_alt.xml</key>
+		<data>
+		EkapDR99LVIq6onpPtD6ijjZk6M=
 		</data>
 		<key>mMQDF_f_Passport_bottom.dic</key>
 		<data>
@@ -535,294 +155,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IIWDYyWbo0kM2EYPS18ueLFBd6JKhssjJzeIWooHny0=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KMCbWRm05mwIsnuHha1RV3AjEeGTQiv1AO6iKWQl0AU=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			L7iHHPw0rsOP8zu2bp5xMKAEe9ympkMsXy+EmblhH5s=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7ZZHaVbw/duUbJV1yUdHo7/K0URD9y+nOfMb+nESnoY=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4GLuyjsG5C5fvjITXvnnMIeLhSB7NlXZiZf5RzaJ0J4=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aZiv910HewxxvDfaIAoLgkNeGbQLi8yt1Wu9pNH/Sbs=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			o49R9fj0ilPilKhjrxoESP7FfF/znmsFVLpa8eUwuoM=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Tpvc8662Im0N94ENXq3Or7x8hAR0Vw4PyB2I0fhpsLo=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/rpn_lstm_engine_tflite_zh_la.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ThxDI4U9m5u62v/Y2nBpDZ1oXLCKEp1I1VZK+CecGSY=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/seastar_lstm_recognizer_zh_0.2.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2mrOND8bIuoKi/cFm+pucgZZXTNpKWzaqCkw75D/Q/M=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_langid.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f5Mfb3wd0OxZGs53gN+RZFpFD6/INQXz/0XOXvfIRBs=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_zh_0.1.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NiyqTzQMg8uj6dV7TLl6mk8V84KqG7/ga81+bg+RnDA=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_zh_0.1.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+IVEMhMdk3NYsw5wHHsHV8AbbsO86bPxRMeK8CvtFzQ=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_zh_0.1.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			M0FuB1BCdc+nyzx0y6kq4z18BN3ILENOeyRifBuYdmo=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_lstm_recognizer_zh_0.1.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5oo+m8cal020GV4LzszG/k4nwbfFukJLXbxNMB4PbDo=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_script_detector_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1CI8I82O49PUmZ1OELsW7AuBGfiBLl5m5k6QfFUI8hs=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_script_detector_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Fr6fwMDJQpzDcU1dLoZixTvSjPADE3XiN9sojcjajV8=
-			</data>
-		</dict>
-		<key>ChineseOCRResources.bundle/tflite_script_detector_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IoGgFob5/5Fk8qEu10OBjiuOCvaufHMkCSTXA0LT8ss=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8A8lZEpijnOMFV9JPQcq8UPyU8v5nwi/SCnL5dT0NRw=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLlefteyeclosed_200.emd</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0xIT5PJf+LIXgeeG/YnO3lkX75s/vlC99V1IOvE27e0=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLrighteyeclosed_200.emd</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Y8oL2DjlGXdImtrbgKC+AWxaoLe2kPvDiaBkWqzP5P8=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			e4xmOd9jdNpi991emZr0L3f5WrwnYSAeOCuEawtA6rk=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DtXIUoL5QNFKVyOmwK8F+cKr1Okww8TwvloHI203QRE=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_accgray.pb</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8K2wTXshtNmImTKmLw7/En7tsn0vhTQqkBRBU8oLgbE=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CUNCXfGzUODFinvmaL4flC6sM4wZjhpPFoWco+Eif0U=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ohul8X85ZKdLtH/1Zd9rHXHLRM++QVx15sVwkeD2hiw=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/xS88ITxLX7HDpw4BwkYP+l7q92dHjOclahT2yeWisA=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YylgmpVym7EhGth8y9W7CQ0bYCQak5/JT0nvkaTEiSY=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2gju7+eYFs+Uf0FIDqLbFLpDnmzKCESbbVyK2OSSbAk=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8p/JYOChSF1wTIwlOBqws6xLiaBuHDTVkQkZ2Us2e5A=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TyXMFC6WtfIbMjbSFmwuZikgaB8dI5QtJRDpjIr27Nw=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/contours.tfl</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hBYLwMSnSVF+Yvk8ssaKuP9J3lcfcOttFgJUypoHicA=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_gray_v1.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ekzwnGrkp1gUTUK/NbmiapWYfjxYQdDcORCVaYKZ2as=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_v1.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OvuTDu3I0dQENEgCgdO16M7EwwTlLTT9/IqVCDQLtxk=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_gray_v1.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IVEbvtJxoKkri5ORjg+I9u+70RWjbRVV8GHO4TH2qzw=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_v1.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2pAlL0mzu5QuX4gBgKFFYfZpKW5/s+3s3quqi2u3gio=
+			jojpeenxJxDdq7mv9niTqsv39QLpeAa6qyHLNx3VjbQ=
 			</data>
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EY5wk1amg/1wRrAl4CNBMkcJZVTfjaOWLOC2aJ1Av+k=
+			66Sz68shWeKkuGP1i08erIpTMOG0sCPUUPl9Hjx9Csk=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -885,7 +225,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/WfbpfSQGiduGM8cczmxrShPTayrF8VM5zRS3ivVkJg=
+			XEatdrPtG6YvXhZDqwESexfAt0cj0JZkgJv1ZZH/aI0=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -906,14 +246,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ALDGOUhg8o5yfEKEPkLhRd9VvAJ2tBaa/v6F8LR2rhE=
+			t179a7Snk9PoS0V3kH0HGrmRL58CatshUFFAYcWywKY=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Liveness.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hBOt1bxGMfIpWive3OQofQjPqH9nTAUY9BqGQC45PhE=
+			/9ZLeABBLhvjfuQUEX9/O7e7NA9f3zLQB5uWyUD8yA8=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -934,7 +274,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuyZNg9D/zARYuLCNwx9T7/NDgTej9m6xQXsqToCPp4=
+			8Xpsq+0RBqR/6SPjDVlQsRzXnhmY1E7I02fcoFZEpvM=
 			</data>
 		</dict>
 		<key>Headers/SDKModels.h</key>
@@ -965,403 +305,11 @@
 			6U++Is50kmJx/hiwPrhIZX85JAjeR44TmxbDvGs6yPg=
 			</data>
 		</dict>
-		<key>JapaneseOCRResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PP5QJ5/9znnJF0uMOd+sXZEntNC8SZGB+itadjnxlrM=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			r2qd0L9iIIPKvyQDSzGnGhW/XfJhHa56qDZ4OgBUy40=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CNeUIqCkUCXS3AKpV7ZjnbWkpDHMeaNAgOpiFNQIjsE=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WbTWevtypL60/YBHzJzRBXuGWjC52M6HZyWc27Wy8ZM=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DqLN93lS75QvQ4qmyb1c2gAZXHbnaNbqSkod21wgb6g=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IjuvWdM59nftZ/6jET19ancJF9Wtt3DGULwPZGcD+x4=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Tpvc8662Im0N94ENXq3Or7x8hAR0Vw4PyB2I0fhpsLo=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/rpn_lstm_engine_tflite_ja_la.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5CciyJ5dm6KtmQLLkbfoliOeVF+02jH7hcqWLNCBAd0=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_langid.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f5Mfb3wd0OxZGs53gN+RZFpFD6/INQXz/0XOXvfIRBs=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_ja_0.1.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zHM9QeuI2Pe4smM9ojhhkwrJ2QXL0BUsfd24q356jUo=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_ja_0.1.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MQelo8D2vigmgZnaGghQKxvM0Jx5WdfSvoRfBv0EIO4=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_ja_0.1.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8wgBRTA8/HSgqzEFpx61axkR7w8Yb4aq13vtaKC4mJQ=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_ja_0.1.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hl/SW/BIUFJRJhtnv27Wn2MUpdDzNuZ5CymqJZ9BNdg=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_script_detector_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1CI8I82O49PUmZ1OELsW7AuBGfiBLl5m5k6QfFUI8hs=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_script_detector_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Fr6fwMDJQpzDcU1dLoZixTvSjPADE3XiN9sojcjajV8=
-			</data>
-		</dict>
-		<key>JapaneseOCRResources.bundle/tflite_script_detector_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IoGgFob5/5Fk8qEu10OBjiuOCvaufHMkCSTXA0LT8ss=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BR5G8A8z43s7bSm4tmCV4sjh+9YkCTUfNyvZCUA69rk=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			af9uALn84HTShq8vC2UHJm4nhKrT8zx+vd/nwhXkEIA=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/8PvJKYZOQlYI4cibFKTFcQgoR2tqa8P/NmI41WneV8=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YPOV6jG2qq6LzK3ihDIpRFEHb0G4j2v36Riair1gOOc=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3uoyiUDPh1rlUHKpJWd9pz2O/KBMbv2E0u8PG/uQL1A=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lxk5cHCLJTERu0NsM3tpN7NpAfUu4jI9O1SJBFptXiw=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Tpvc8662Im0N94ENXq3Or7x8hAR0Vw4PyB2I0fhpsLo=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/rpn_lstm_engine_tflite_ko_la.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6HhhPeZKIGLj8ZN+CDIaPxj4XMYr/7Fo777ylo0sT6g=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_langid.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f5Mfb3wd0OxZGs53gN+RZFpFD6/INQXz/0XOXvfIRBs=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VHEmDnRX+3F/+Tsc/h6XVmJa9b4BUyS7l7qjFrRW2/U=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VwIl37uwXbi4/MQCVa257j5mn1M3c3W7SeY0uEIJu7c=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			19DC90MWHrf2hBRuUTd77wne5A3iVPdnvS6BeBlL/YI=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Uj9W+Onm3FkN9xuqBR6gWpgGcegkwdrbS7Exjr9WM34=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1CI8I82O49PUmZ1OELsW7AuBGfiBLl5m5k6QfFUI8hs=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Fr6fwMDJQpzDcU1dLoZixTvSjPADE3XiN9sojcjajV8=
-			</data>
-		</dict>
-		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IoGgFob5/5Fk8qEu10OBjiuOCvaufHMkCSTXA0LT8ss=
-			</data>
-		</dict>
 		<key>LICENSE.txt</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			Qi4N6OMnX+v1xBpcz4kfaPFrxA4bXcom5QkTswfveU4=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			og9Cugk7HBnk1LfjsDb0YHivworKfygBmE7vDKYWLbM=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7s03I4aEMI8M9uQwnZhbBe+jWOtiVM4UfI1jaXjidX4=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			q87cciLhg9DeE4i2mmTgCE/2E/rIrwd5HWzd7da0itA=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			n7g6r0uZjxHUA/rJkCud+oxQx1/G9c+kwI9imEWEYqc=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			invF7KpCHCac7fmWM4LSKwZVfsuUXzSgywbk4dGvZ3c=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UZT1bYZpAWpQaR2sm1p4mbpg7oRI2e+bGyzECKsv9QE=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Gji2RtEJwU3YrjDV8SqQNvYPnpI8kwEzeqJQd1nysJg=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EPDNQpLTZ7J3ggU9/BhgwGKbEwmAWLOsHW7KYoi7+wQ=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_langid.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f5Mfb3wd0OxZGs53gN+RZFpFD6/INQXz/0XOXvfIRBs=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Info.plist</key>
@@ -1389,14 +337,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aVbukACpWaaUC4bEN3qZqQDdG27gwJtaq9cRKc1S9uE=
+			4ZTlT5ouF/ZGTqQddCVgJUK7kbnBaYgIEVe67dGavPM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p12LVWErLi7caihL3csJqDbC/R0SjHVguINvKgxbhBU=
+			L6j1F2vkvh/rSy2G3yVcaEvTZtD41vybn9m7EPfYyAY=
 			</data>
 		</dict>
 		<key>ZoomHybrid.pub</key>
@@ -1411,6 +359,13 @@
 			<key>hash2</key>
 			<data>
 			geq6K3ZW3HJv7kWij+dwRzMMW/B+pElevO84cSwcajw=
+			</data>
+		</dict>
+		<key>haarcascade_frontalface_alt.xml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YoHfE0Wcwhj/BH0Csq44WbEv8UqT/+iVL3sz+te5aXs=
 			</data>
 		</dict>
 		<key>mMQDF_f_Passport_bottom.dic</key>
