@@ -38,7 +38,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) setFeedBackCenterMessage:(NSString*)feedBackCenterMessage;
 
--(void) setLivenessURL:(NSString*)livenessURL;
+//-(void) setLivenessURL:(NSString*)livenessURL;
 
 -(void) setApiKey:(NSString*)setApiKey;
 
@@ -54,6 +54,8 @@ NS_ASSUME_NONNULL_BEGIN
 -(void) setBlurPercentage:(int)blurPercentage;
 -(void) setDefaultText:(NSString*)defaultText;
 -(void) hideLogo:(bool)isLogoHidden;
+-(void)hideAlert:(bool)isAlertHidden;
+- (void)setAlertText:(NSString *)alertText;
 -(void) setGlarePercentage:(int) glaremin :(int) glareMax;
 -(void)evaluateServerTrustWIthSSLPinning:(bool)isServerTrust;
 
