@@ -69,7 +69,6 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 
 
 - (SDKModels *)loadEngine:(NSString *)url;
-- (SDKModels *)loadEngine:(NSString *)path documentDirectory:(NSString *)url;
 -(void)setDefaultDialogs:(bool)isShowErrorDialogs;
 - (NSMutableArray *)getOCRList;
 
