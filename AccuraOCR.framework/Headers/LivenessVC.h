@@ -33,6 +33,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (weak, nonatomic) IBOutlet UIImageView *imgView;
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *_constant_height;
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *_constant_width;
+@property (weak, nonatomic) IBOutlet UILabel *defaultLabel;
 
 @property (nonatomic, strong) id<LivenessData> delegate;
 @property (nonatomic, strong) id<FacematchData> delegateFacematch;
