@@ -30,7 +30,7 @@
 		</data>
 		<key>ChineseOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		SBTw5EHNrjYoPE4N13sHrMdtleg=
+		CsdxL8rgrJmBV6CvXR9N/Wm1imY=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		tHG1SWfXFhBrTjs7SgHkI0l9wrc=
+		8WPNdh1ubgCUByfyug/K2f0K4Vc=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -146,11 +146,11 @@
 		</data>
 		<key>Headers/NSObject+Facematch.h</key>
 		<data>
-		/XkfnBg1cJam5foZprHu3UDaqZo=
+		/BlHDJoraz7cdniUGq55h0Rdsjw=
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		lJwW+uHcfwHhtPNF4Wdt9Q3EAVc=
+		hnjC1es8/X0HmVnI1nfz/t+bFYg=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		bY3geAc9zC0OZpmuM3WK7UtItu0=
+		yr84NSXvIl3lWMkt86KDU9NFeec=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -290,7 +290,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		I++hkwdHCnyYpmZVBySddex34oM=
+		+nndDsTg3PHAnfkSSrIg0Flclgg=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -378,7 +378,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		spNCQn5WgghZK6DBfsfRtFy/79M=
+		AnIyoBZ+8tYnqBaPsIKpMzs7jSs=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -426,7 +426,7 @@
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		uCVHozVNsWehK8/kpHWmylUsqRE=
+		/UZ5UPmRPK9u1aAmMMj+30gTKAM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -513,7 +513,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t+avt4CSCM52O7OqNgBYu/6bh365I97rAOi2NM04D1U=
+			EUEyW+A3U59YnIw+eqr9bx/18HrTzszxq8TVfBZLuLU=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -695,7 +695,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XEatdrPtG6YvXhZDqwESexfAt0cj0JZkgJv1ZZH/aI0=
+			/WfbpfSQGiduGM8cczmxrShPTayrF8VM5zRS3ivVkJg=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -716,14 +716,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t179a7Snk9PoS0V3kH0HGrmRL58CatshUFFAYcWywKY=
+			ALDGOUhg8o5yfEKEPkLhRd9VvAJ2tBaa/v6F8LR2rhE=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Liveness.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/9ZLeABBLhvjfuQUEX9/O7e7NA9f3zLQB5uWyUD8yA8=
+			dT0g9R2++MiIX2pCBLcY9VC62RFV8+Pgo7SD5j/bfmw=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -814,7 +814,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VyGaATfClhczg1PAcJjU5qYvqaK/YbipsrXTvRa8NF0=
+			33EzKCyKVE+nVjVSk8Kto9gEiYiEVrBGVZnMb3s+FOc=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -961,7 +961,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YtWnN45oMpjMAcLassEn43q0IoRLnitaft6EvIBrg3s=
+			tqBhoOomM8c30ZFzzk7lyITzQfuS3oTt7KVZ+aeN9Q4=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -1115,7 +1115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PUR64X87MNb47vmZulVILlfyan9tF6Cksb79CKMNf9o=
+			WcMoHoCFqhAtRAsGwu+WFi9Hxu/Mgbqtk9Xv+B8NWaw=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1199,7 +1199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ZTlT5ouF/ZGTqQddCVgJUK7kbnBaYgIEVe67dGavPM=
+			hkK8zdDHUUpSk+uH0mThgvhN39DBNqjd+TvA7hcsuV4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
