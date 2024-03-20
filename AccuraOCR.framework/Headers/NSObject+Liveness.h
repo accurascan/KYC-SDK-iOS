@@ -38,7 +38,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) setFeedBackCenterMessage:(NSString*)feedBackCenterMessage;
 
-//-(void) setLivenessURL:(NSString*)livenessURL;
+-(void) setLivenessURL:(NSString*)livenessURL;
 
 -(void) setApiKey:(NSString*)setApiKey;
 
