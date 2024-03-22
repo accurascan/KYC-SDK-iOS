@@ -10,7 +10,7 @@
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
-		bDYyTG3Ga0VIlU21Rq21ev0CYx8=
+		mkvVQgieJEclBpXAls0sVXG1lwo=
 		</data>
 		<key>ChineseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>ChineseOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		0nzO8WTFOE2g4zcS2ScxBTxFSPw=
+		7+hZBTy4q1cS/d/iXX6T5StvqbA=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
-		RuIQFWEvZKoi8q1xYJbi6rHOG+0=
+		m0R9qor3dCIa6a+cQCvYVhJShqI=
 		</data>
 		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		AV9DYtnEwXpGjc1tppBPqC+fVFA=
+		MhA4CAOpGA8xxbhfTV3MGNwwCCE=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -270,7 +270,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		RmSntvujiTpXZyE/qPjnLzsQYPU=
+		6pXIcZx6PWWvtCfxUeZD2unnaFE=
 		</data>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
@@ -290,7 +290,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		+QOTzl4bdSlJ0UcZ9hfZReSPLoE=
+		5p3paQAU78AUO3aCx5tdkjhFIbw=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -358,7 +358,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		7RhGSQzgsxmqAnRdyeOw4Hpd1f8=
+		8bGEHVoN5I1qEka6sxOXVzyLFzg=
 		</data>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
@@ -378,7 +378,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		7sk4GgsMIksYG2ezegq7VkPiWOo=
+		+Mn1v/GRUKaw3yObCVdAn7BvtSI=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -432,10 +432,6 @@
 		<data>
 		1xhzcBvS6rB+5HKX3Oo87u6JGEE=
 		</data>
-		<key>PrivacyInfo.xcprivacy</key>
-		<data>
-		3ziNt8/zXKffrDqwx4iu+nO+P70=
-		</data>
 		<key>ZoomHybrid.pub</key>
 		<data>
 		a42NKC8AYfpIqKXU1P09wssgiko=
@@ -478,7 +474,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tt+pJ3oTg+IPEuMqSt6DRmmZNKVrxnJuvW8UORGemng=
+			+5MCji8jaExugo62tgBXV+zG6ltLcSnKMbk6SfCAB4Q=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
@@ -513,7 +509,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aeXiDG1uG284JIJ8G+hTcHiKc7wr0/I+2yffboLxhFg=
+			esKGu3lh70phB99YaAHRXvZi4IfXtdYQSxZ1RLVUZ9s=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -779,7 +775,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XA2JC9s+9AjmkgY9fsbe++65gYHqQDfLuMP9TxKk+EU=
+			93D7oq+z8c+lBJdbxC3RNEvIG67ET0ticaHNlu0X3Z0=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/_CodeSignature/CodeDirectory</key>
@@ -814,7 +810,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jPFtrTidP+OjAZoPzKziL+8bgRgeTInxfY5Vjyz7jsE=
+			5ru2Ck0iuD5og0cOAd0vW6Y4ttNjMqOjqW6HdW4gflk=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -926,7 +922,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n9GCcffFvEcrlsZtf9E5irAuEQ+/Ve6lJZ+ll/f4op0=
+			CFCTDVbWjQR9d9Q1SRTXad7J+O7VOzxuIEicRe6F5uU=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeDirectory</key>
@@ -961,7 +957,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RydNBFWH4xka4vZSqAYHDbrLyUnilGEUpOMw616JMvE=
+			YeGZdX+8hhArUv1gHlWh4scb9n3zoSXbRfMtzUEqJ9g=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -1080,7 +1076,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ygMjdCIS5FFXqTnO7K5RRjinwGxQ+dRPaCwOo+8czo=
+			9N0xn6K7w8PrEOZarRvCeFfrucV5ENkPfAQpJQMEtsc=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
@@ -1115,7 +1111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HyNuNYrwSk+n1aSPFK7aPguO8F+/C8h1nqCmtXYaf88=
+			JKfcfkeRzi5LT7XN0NvgOD8tQFOodmbY5EMJhypfk9o=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1207,13 +1203,6 @@
 			<key>hash2</key>
 			<data>
 			L6j1F2vkvh/rSy2G3yVcaEvTZtD41vybn9m7EPfYyAY=
-			</data>
-		</dict>
-		<key>PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PK0pZsJFO3D9B4sOvJEEyfYvQ379KpNkrBn1p0NcrJQ=
 			</data>
 		</dict>
 		<key>ZoomHybrid.pub</key>
