@@ -69,7 +69,7 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 
 
 - (SDKModels *)loadEngine:(NSString *)url;
--(void)setDefaultDialogs:(bool)isShowErrorDialogs;
+//-(void)setDefaultDialogs:(bool)isShowErrorDialogs;
 - (NSMutableArray *)getOCRList;
 
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(NSString*)url cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andcardName:(NSString*)cardName andcardType:(int)cardType andMRZDocType:(int)MRZDocumentType;
@@ -103,7 +103,7 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 -(void)SwitchCamera;
 -(void)setBlurPercentage:(int)blur;
 -(void)CardSide:(CardSide)scanCardFirst;
--(void)showLogFile:(bool)isShowLogs;
+//-(void)showLogFile:(bool)isShowLogs;
 -(void)changeBarcodeType:(BarcodeType)barcodetype;
 -(void)CloseOCR;
 -(NSString *)getSDKVersion;
