@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		TKY7+d5kUazRYKp0SLmR8Xcql7s=
+		HYwZXD0TzbDWHd2t0Z/tyNaJ5uE=
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
-		yPPF3rzT2JcUsKrEKd3+kGdcnIk=
+		7QUhoARytYc0FERz5mXQKra7Z48=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -162,11 +162,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8XPPE5nTrM7iIi5gLbWtI+IG7BY=
+		j8bRR5TeodTW7HN/MLH1xfp49cs=
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
-		DkyarpL7aREKUKu/098kscoe+EQ=
+		j3DnAiQ15Wva19aJbKR4I32RHAQ=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		O/l7ldVpYjbJXSuDMj/KQf0K3ug=
+		BRdXSByv3jGlaHoFNECV47SVxks=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -298,7 +298,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		jMpAzgBZ5YbBhQyTrjr6JBuw5gk=
+		UgXPtQwvTzZ6yX7k+lNG9sEi+Ok=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -346,7 +346,7 @@
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		/UZ5UPmRPK9u1aAmMMj+30gTKAM=
+		1baCAKfMtmhxE0zXMdwgdL+CcC4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -387,14 +387,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jojpeenxJxDdq7mv9niTqsv39QLpeAa6qyHLNx3VjbQ=
+			bTeJ+psWDHNpSMC+wWhNcrsi2QpSJMrtSXd0TttdA/A=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EeqG8DRHgULLhsFZ614FW8GZbJOa+5pAw2iWBkATLMs=
+			Jo5vmutSk1ZwI6n+n+f6nPf31glxnl4XKLxuXR/zbJU=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -660,7 +660,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uZHeocgM969sU+WRXuu9lh5JPHyX1h961rkRI01ieZs=
+			0nJMESrFfX11MaxJFfRXcY0gS2AxIz1doJeUJrIKutI=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -772,7 +772,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xx3ecfTfE/VKkbZszUc2ZU7Sax5TQYwTthcERyWbWhY=
+			iwB7uSkGF3uA9diNehKy1CPtRvDUBqUqUP4quYkR+Sk=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -891,7 +891,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a+wTuawje+w9/QmmBzvdCOoHaR/KqjwvFT6YJ+Gcmqw=
+			aSQWeCyrzKgckoKKkCjy7bi2x4nTHRfFH2JWnlwEqp8=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -975,7 +975,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hkK8zdDHUUpSk+uH0mThgvhN39DBNqjd+TvA7hcsuV4=
+			ofMmEz1CwpCEcwjBmCxSkAipAMl5KGDttIgelF1HL6U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
