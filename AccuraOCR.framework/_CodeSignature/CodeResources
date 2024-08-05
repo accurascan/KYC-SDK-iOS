@@ -78,7 +78,11 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		ZkesrzXQ/0th6LWrfTc0ql+4O4Y=
+		lvgIY2LWEWqxToHZMg6SGYhR2Qg=
+		</data>
+		<key>Headers/AccuraOCR-Swift.h</key>
+		<data>
+		HHnE99bP7E5GTd3G9jXwUPnHPT0=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -158,7 +162,7 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		Nh0/3tOvfjbWPFlHzYdXXui5UGc=
+		d/PleQ9NGwjzJPDBjGyYLjvo63k=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -348,9 +352,29 @@
 		<data>
 		1baCAKfMtmhxE0zXMdwgdL+CcC4=
 		</data>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		q/rgnUpOwr65w05uYOc2kj/yWYw=
+		</data>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		AVhG9yagLLoPE11eUL9l1mw4j3U=
+		</data>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		smDkb9Q3VWRpERJKgAzbREyP3qQ=
+		</data>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		AVhG9yagLLoPE11eUL9l1mw4j3U=
+		</data>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		SqYh4nz5gK530x17x0z1JIMyHSI=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		1xhzcBvS6rB+5HKX3Oo87u6JGEE=
+		q12slq22GZRzzkN38B691XTKftc=
 		</data>
 		<key>ZoomHybrid.pub</key>
 		<data>
@@ -513,7 +537,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Uhe6t4U/K1SMDauc3bQSEgjl9Vj/twveUlEk+yGQM38=
+			3hKotXhDIFFhuVGcaJp7BUxqUTQucDpTV2/gvYNaPXU=
+			</data>
+		</dict>
+		<key>Headers/AccuraOCR-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XdxOAOH+oX5t6wvkQtlRTH5XsAtbyGpAM3vkrAK+aLY=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -653,7 +684,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6U++Is50kmJx/hiwPrhIZX85JAjeR44TmxbDvGs6yPg=
+			ojgIUQVSr5uV79qn8mrW/c3mguCJRRf4QCMdsgWhWUA=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
@@ -978,11 +1009,46 @@
 			ofMmEz1CwpCEcwjBmCxSkAipAMl5KGDttIgelF1HL6U=
 			</data>
 		</dict>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2QaEepLTFhafsyPSqlz8EV3isJJaZyxwjIcLn9CBTSk=
+			</data>
+		</dict>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IYF0Y+FDg7tZBFPGOwI9WTV07WQUT4N/+mHZUNllY4c=
+			</data>
+		</dict>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fRih9VOb7if0vaGaR5t2KwSp6W2mPLPcEUjnvWC/Iy0=
+			</data>
+		</dict>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IYF0Y+FDg7tZBFPGOwI9WTV07WQUT4N/+mHZUNllY4c=
+			</data>
+		</dict>
+		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gFfNg084dJok1+OcLZyU287Q8Et4vUms05jQeAqeNFk=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L6j1F2vkvh/rSy2G3yVcaEvTZtD41vybn9m7EPfYyAY=
+			UV6Dy8FjTw9NNqOM/Y7AKwd54Ar59RFd9Y+RF94ElMo=
 			</data>
 		</dict>
 		<key>ZoomHybrid.pub</key>

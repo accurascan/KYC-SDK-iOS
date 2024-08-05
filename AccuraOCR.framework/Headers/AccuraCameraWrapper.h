@@ -111,6 +111,11 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 -(void)getMRZDetails:(UIImage *)image isFace:(bool)isFace;
 -(void)getOCRDetails:(UIImage *)image isBack:(CardSidetoScan)side;
 -(bool)isBackSideAvailable;
+-(void)APIKEY:(NSString *)apiKey;
+-(void)isApiCallingEnable:(BOOL)isApiCallingEnable1;
+-(void)APIURL:(NSString *)apiurl;
+-(void)APITimer:(float)apitimer;
+-(void)setProgressDialogue:(NSString *)loading;
 
 @end
 #endif
