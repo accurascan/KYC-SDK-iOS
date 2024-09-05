@@ -113,6 +113,7 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 -(bool)isBackSideAvailable;
 -(void)APIKEY:(NSString *)apiKey;
 -(void)isApiCallingEnable:(BOOL)isApiCallingEnable1;
+-(void)hideProgressDialogue:(BOOL)isHidden;
 -(void)APIURL:(NSString *)apiurl;
 -(void)APITimer:(float)apitimer;
 -(void)setProgressDialogue:(NSString *)loading;
