@@ -9,8 +9,8 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "12.0"
   spec.static_framework = true
   spec.source       = { :git => "https://github.com/accurascan/KYC-SDK-iOS.git", :tag => "4.1.0.0" }
-  spec.preserve_paths = 'AccuraOCR.framework'
-  spec.vendored_frameworks = 'AccuraOCR.framework'
+  spec.preserve_paths = 'AccuraOCR.xcframework'
+  spec.vendored_frameworks = 'AccuraOCR.xcframework'
   spec.requires_arc = true
   spec.swift_version = "5.0"
   spec.exclude_files = "accuraocrSDK/*/.{png}"
