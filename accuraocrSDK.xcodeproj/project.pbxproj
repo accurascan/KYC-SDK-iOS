@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18F96DD72CA139C300959128 /* AccuraOCR.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18F96DD62CA139C300959128 /* AccuraOCR.xcframework */; };
+		18F96DD92CA148F300959128 /* AccuraOCR.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18F96DD82CA148F300959128 /* AccuraOCR.xcframework */; };
 		A3CC7FB024A45E520046694A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FAE24A45E520046694A /* Main.storyboard */; };
 		A3CC7FB224A45E530046694A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB124A45E530046694A /* Assets.xcassets */; };
 		A3CC7FB524A45E530046694A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		18F96DD62CA139C300959128 /* AccuraOCR.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AccuraOCR.xcframework; sourceTree = SOURCE_ROOT; };
+		18F96DD82CA148F300959128 /* AccuraOCR.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AccuraOCR.xcframework; sourceTree = "<group>"; };
 		A3CC7FA524A45E520046694A /* accuraocrSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accuraocrSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3CC7FAF24A45E520046694A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A3CC7FB124A45E530046694A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -27,7 +27,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18F96DD72CA139C300959128 /* AccuraOCR.xcframework in Frameworks */,
+				18F96DD92CA148F300959128 /* AccuraOCR.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -37,6 +37,7 @@
 		A3CC7F9C24A45E520046694A = {
 			isa = PBXGroup;
 			children = (
+				18F96DD82CA148F300959128 /* AccuraOCR.xcframework */,
 				A3CC7FA724A45E520046694A /* accuraocrSDK */,
 				A3CC7FA624A45E520046694A /* Products */,
 			);
@@ -53,7 +54,6 @@
 		A3CC7FA724A45E520046694A /* accuraocrSDK */ = {
 			isa = PBXGroup;
 			children = (
-				18F96DD62CA139C300959128 /* AccuraOCR.xcframework */,
 				A3CC7FAE24A45E520046694A /* Main.storyboard */,
 				A3CC7FB124A45E530046694A /* Assets.xcassets */,
 				A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */,
