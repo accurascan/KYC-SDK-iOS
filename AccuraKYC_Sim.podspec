@@ -16,7 +16,6 @@ Pod::Spec.new do |spec|
   spec.exclude_files = "accuraocrSDK/*/.{png}"
   spec.dependency 'GoogleMLKit'
   spec.dependency 'AFNetworking','~> 4.0.0'
-    spec.dependency 'SVProgressHUD'
   spec.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
