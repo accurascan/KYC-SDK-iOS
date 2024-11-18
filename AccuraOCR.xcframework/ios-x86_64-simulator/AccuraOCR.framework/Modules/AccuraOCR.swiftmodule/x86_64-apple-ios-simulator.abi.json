@@ -125,6 +125,44 @@
           },
           {
             "kind": "Function",
+            "name": "updateExifAttributesAndReturnData",
+            "printedName": "updateExifAttributesAndReturnData(of:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AccuraOCR@objc(cs)Encryption(im)updateExifAttributesAndReturnDataOf:",
+            "mangledName": "$s9AccuraOCR10EncryptionC33updateExifAttributesAndReturnData2of10Foundation0I0VSgSo7UIImageC_tF",
+            "moduleName": "AccuraOCR",
+            "isOpen": true,
+            "objc_name": "updateExifAttributesAndReturnDataOf:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "saveLogToFile",
             "printedName": "saveLogToFile(_:)",
             "children": [
@@ -1485,21 +1523,21 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-gylltnldiivcodetorbasdphbgcy\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphonesimulator\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-frriorubplrwfpcvllwndtnkzlea\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphonesimulator\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 741,
       "length": 16,
       "value": "\"accuraScanLogo\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-gylltnldiivcodetorbasdphbgcy\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphonesimulator\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-frriorubplrwfpcvllwndtnkzlea\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphonesimulator\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 11,
       "value": "\"icn_close\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-gylltnldiivcodetorbasdphbgcy\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphonesimulator\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-frriorubplrwfpcvllwndtnkzlea\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphonesimulator\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1013,
       "length": 6,
