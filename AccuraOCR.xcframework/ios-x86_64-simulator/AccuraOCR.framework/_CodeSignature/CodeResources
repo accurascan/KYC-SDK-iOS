@@ -10,7 +10,7 @@
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
-		XBughTq2XY9rgKV5tjUSpmqv0NU=
+		GXt8Lp8luCDkwmMZvUjviiVWUzI=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -166,11 +166,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uoQcqg33yYiSo/ajsQkLfBNQr6w=
+		UdJDkWOkwAn2hLRh38aPe+kK6cQ=
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
-		3gn7Uzx85eXNGFFaPOSVcN5IAq0=
+		WgblSXs3Ixn+PAdETAXoY+61ASg=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		QOn2hGLT06piETsKtqp1HWTv+rA=
+		KjRn/vyBVf064rsksd/xlUW7/QY=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -302,7 +302,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		YnHV03vp7vt4RDtMfuSJndGk+vU=
+		gxKwiEA7sjoNP2WCuHPIeh1nIro=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -352,33 +352,9 @@
 		<data>
 		1baCAKfMtmhxE0zXMdwgdL+CcC4=
 		</data>
-		<key>Modules/AccuraOCR.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		BrvaLKltw6n8LT21KeJtYdOVLpo=
-		</data>
 		<key>Modules/AccuraOCR.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		pu0RvAJiqDDHp4Sv77EjT6yt7mM=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		e3AdFyz7fh8WvlYZPqVky9W4dWo=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		3g7URhOcvSBxdIK/2o8mxgDwIYU=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		NfcNcTrKapE8asDAyz7MiQapy2E=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		3g7URhOcvSBxdIK/2o8mxgDwIYU=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		tdJYzMMjP+F66+vtuGNY2lWgoM0=
+		c12Psl8YCdCxrni81dT8EV/0qMk=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -446,7 +422,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SG/jqb+znwEHexqNuexOky6ICfXppZmSAyluk4SeQaY=
+			2YUInQLKh7kYrWnddr3cQ2UR7gSA4EkY7SxpMvGEbF8=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -719,7 +695,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zo0Zg2e9zFK/lBOyPzgeB3iDErjMuZADicyRKnue6/0=
+			WirC2GsAdb4YfsSWW+CHzN6WP9HytdYsfg51R/yH2Rg=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -831,7 +807,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i65LHpPumRn6AfS7k3UOaL7eLdmpiSON83pBkHeaVQg=
+			KKBn4Pzdm6gjBjH8WRXReatkSH0DKpeSGneLwO+8vEk=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -950,7 +926,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zWZBnQzUx7v/aiFx4z0oh5bcdH43kf8Vfy2RoSyCALs=
+			zzywpaBFoi5l/PsX3gNegcuYcBy65AZ0kIkc1wA0QWs=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1037,53 +1013,11 @@
 			ofMmEz1CwpCEcwjBmCxSkAipAMl5KGDttIgelF1HL6U=
 			</data>
 		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iIBCl8Nlcr2m1Z3Gzr5K2QW4A+d2dEL5fbnfI3MH4O8=
-			</data>
-		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b2qNy1aeQq49pwv+/QJdAwTtQpM2vz8nZl3Tz1rS71Q=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KviacuTyrjpL10jeDnOOC58SeX65XRBgogJcaJEZhrA=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7qKrpCU1QEPEFnJpYOKLH1SrNlz6oJjM3kOCVGgsOTI=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7JPXbO1BIuDx3wfIxat4mQD/lIPfv5epsWRhJSw5fE0=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7qKrpCU1QEPEFnJpYOKLH1SrNlz6oJjM3kOCVGgsOTI=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hmz7TcnUARZbzK6NqZUfD+1dQWM7AitS9aSrZHCJW48=
+			FD+M8xSKxb9tKLAvoPNtK/KracPTrL4N/3uAisElkWw=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
