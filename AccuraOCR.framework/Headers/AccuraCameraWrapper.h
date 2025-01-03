@@ -12,6 +12,8 @@
 #import "SDKModels.h"
 
 #import "ResultModel.h"
+#import "NSObject+PostResult.h"
+
 
 typedef NS_ENUM(NSUInteger, CameraFacing)
 {
@@ -118,6 +120,7 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 -(void)APIHEADER:(NSDictionary *)apiHeader;
 -(void)APITimer:(float)apitimer;
 -(void)setProgressDialogue:(NSString *)loading;
+-(void)SetAPIData:(NSString*)URL APIKey:(NSString*)APIKey;
 
 @end
 #endif

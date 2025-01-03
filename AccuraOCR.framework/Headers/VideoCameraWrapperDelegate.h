@@ -42,4 +42,6 @@ typedef NS_ENUM(NSUInteger, RecogType) {
 -(void)isBothSideAvailable:(bool)isBothAvailable;
 -(void)onAPIError:(NSString *)error;
 
+
+
 @end
