@@ -12,7 +12,7 @@
 
 
 
-@interface PostResult: NSObject <NSURLSessionDelegate>
+@interface PostResult: NSObject
 
 typedef void (^SuccessBlock)(NSMutableDictionary* Response);
 typedef void (^FailureBlock)(NSError* error);
@@ -20,7 +20,7 @@ typedef void (^ProgressBlock)(NSMutableDictionary*);
 
 
 -(void) postMethodWithParamsAndImage:(NSMutableDictionary*)parameters forMethod: (NSString*)forMethod image:(UIImage*)image apikey:(NSString*)apikey completion: (SuccessBlock)completion FailureBlock: (FailureBlock)FailureBlock;
-//-(void) postMethodWithParamsAndImageUpload:(NSMutableDictionary*)parameters forMethod: (NSString*)forMethod image:(UIImage*)image completion: (SuccessBlock)completion FailureBlock: (FailureBlock)FailureBlock;
+-(void) postMethodWithParamsAndImageUpload:(NSMutableDictionary*)parameters forMethod: (NSString*)forMethod image:(UIImage*)image completion: (SuccessBlock)completion FailureBlock: (FailureBlock)FailureBlock;
 @end
 
 
