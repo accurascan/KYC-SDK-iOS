@@ -10,7 +10,7 @@
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
-		MWzYEuDXDFrg78YUHojrsJNTm4M=
+		U+Ta1RP8oMhbej75PZnUM99zjSw=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		tA8aDlAIBdq2k7iIA4bAmo2CseI=
+		tpAjUNe5hG8yuaB7TOkq39czrLI=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -166,11 +166,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		plAdfF8UgymHg9fcCuY4MDBwvLM=
+		ll8j4x6BF49BtsVEE+3sHoQC0/E=
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
-		5Xz+qWd+kSsqqz0yRUYMaVsFuM4=
+		Ugwk//wOK6iEoK0DOgDEY1GaHMU=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		7hWPJ4RNIbCFlfmkSczpsUD4n3g=
+		+MDjszppYJpt84AazrzuwJP0zA0=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -302,7 +302,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		NOgfKD1hLxQfStx3WTRguweKq3E=
+		ZTN7cBK572ex4zAvLehF4q7Mtzc=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -354,11 +354,11 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		mPshAnciu6ZCmsH2pd3lqMiSPuA=
+		Blny+ZhAPBfjQV6aWFWLQ4epv4Y=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		QC3kGCDz+tSCtN0R6olz6mfhPoU=
+		QoDK5VWHRb0HAPXvNJEi7uiYiP0=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -374,7 +374,7 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		z+YgYBo6kH+jlLeTBT089u7APiQ=
+		eVLPR+/YVU5bH3nVMPvkq4GBqFM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -422,7 +422,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TYpC4VdGVhfvKXJxVk3dmT6Yi3UkzPVWygRCKdaWY8Y=
+			Rd4dhq71ASE3OfIqVL9/LPoSZ9XqvQYkZIKll3ZleR8=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -646,7 +646,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4TydSMIEstEHzMJOU1qRjQDl3XM1/6Awv7TYvFNOFD4=
+			7gpvWqVk3wlnlrYT9bKrPgVNAAaEzLGMogPhYdneEjo=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -695,7 +695,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jfds7vvREInd3m1BDchC0EnVYUcUN0sQ1CCj+HYmX5k=
+			beoZCAdJYl9yMXBTklJEIxDo+GaB/rIXE42YAuW8DC0=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -807,7 +807,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L2QCVbkVFWQG3YlzsaV3toM9p+XmuAo2DmWQ/r0gK4k=
+			j/KZ3ABBnq7KlplLC4NHfY9g89B7XtIIIfMWRTH9D7I=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -926,7 +926,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			atAckBOIpPK4bBQmhrPDJZrdb36T7OG6cQfmJQwyAEk=
+			DPQGsEyANy5Pr+L/zm3xyhHJB17VANzsE5AIlYwFyzs=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1017,14 +1017,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RxY+RDoQbDRxUeP0zft5uRjEroVf42ChEtGoOENNsdA=
+			v+cNmJ93q4M6QBDfp8rKH2yuXm7BBty0u2DIEVtfTzI=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gbdXrXwyHtn3oROfikQatGDxKUM10EjO4SB+bC9hHMU=
+			HhwXshMwngPy5Tbtw6ckL9/Vb3MXfcxIZkRI/hIGvmU=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1052,7 +1052,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KJmi0MMeg9ZAXRb+SVaK2syNfqXqZlqAoCpoOBjQZKM=
+			8Mg5PE04wdHeCjlQes0zuoNHPQE808hh0JQJEULmuXo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
