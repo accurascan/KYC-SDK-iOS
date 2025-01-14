@@ -138,7 +138,7 @@
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		tA8aDlAIBdq2k7iIA4bAmo2CseI=
+		tpAjUNe5hG8yuaB7TOkq39czrLI=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -354,11 +354,11 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		DztY+xgRojlXsLxadN3/Y9h5lG8=
+		Blny+ZhAPBfjQV6aWFWLQ4epv4Y=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		MkdlxDtKEjbX2lY5BsmaDoXG9P8=
+		QoDK5VWHRb0HAPXvNJEi7uiYiP0=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -374,7 +374,7 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		cuqnxngBlxNPJUjF8O6+K1cE25g=
+		eVLPR+/YVU5bH3nVMPvkq4GBqFM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -646,7 +646,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4TydSMIEstEHzMJOU1qRjQDl3XM1/6Awv7TYvFNOFD4=
+			7gpvWqVk3wlnlrYT9bKrPgVNAAaEzLGMogPhYdneEjo=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -1017,14 +1017,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WXXrWb2tOOSHENUi3s4XITSwOkGatQcgsJ1u/vGkAVc=
+			v+cNmJ93q4M6QBDfp8rKH2yuXm7BBty0u2DIEVtfTzI=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			re7r6HTzepSAe1hvrnIsmU+tHcZzoc3IFcKf8zMeHWc=
+			HhwXshMwngPy5Tbtw6ckL9/Vb3MXfcxIZkRI/hIGvmU=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1052,7 +1052,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CDzA++sl2ejSmI1mDZ9/9wWU42yywcadbNp+Z1NuVk0=
+			8Mg5PE04wdHeCjlQes0zuoNHPQE808hh0JQJEULmuXo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
