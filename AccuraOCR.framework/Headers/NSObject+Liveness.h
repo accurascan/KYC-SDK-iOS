@@ -42,6 +42,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) setApiKey:(NSString*)setApiKey;
 
+-(void) setApiMethod:(NSString*)setApiMethod;
+
 -(void) setFeedbackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage;
 
 -(void) setFeedBackFaceSteadymessage:(NSString*)feedBackFaceSteadymessage;
