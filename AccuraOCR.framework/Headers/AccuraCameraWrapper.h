@@ -127,7 +127,7 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 -(void)APIHEADER:(NSDictionary *)apiHeader;
 -(void)APITimer:(float)apitimer;
 -(void)setProgressDialogue:(NSString *)loading;
--(void)startRecording;
+-(void)startSpeechRecording;
 -(void)stopRecording1;
 
 @end
