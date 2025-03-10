@@ -10,7 +10,8 @@
 #import <UIKit/UIKit.h>
 #import "VideoCameraWrapperDelegate.h"
 #import "SDKModels.h"
-
+#import <Speech/Speech.h>
+#import <Speech/SFSpeechRecognizer.h>
 #import "ResultModel.h"
 
 typedef NS_ENUM(NSUInteger, CameraFacing)
@@ -58,6 +59,7 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
     BOOL _isCapturing;
     BOOL _isMotion;
     NSThread *thread;
+    LivenessType Liveness_Type;
 //    SDKModel sdkm;
 }
 
@@ -73,12 +75,19 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 //-(void)setDefaultDialogs:(bool)isShowErrorDialogs;
 - (NSMutableArray *)getOCRList;
 
+@property (nonatomic) SFSpeechRecognizer *speechRecognizer;
+@property (nonatomic) SFSpeechAudioBufferRecognitionRequest *recognitionRequest;
+@property (nonatomic) SFSpeechRecognitionTask *recognitionTask;
+@property (nonatomic) AVAudioEngine *audioEngine;
+@property (nonatomic) AVAudioInputNode *inputNode;
+
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(NSString*)url cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andcardName:(NSString*)cardName andcardType:(int)cardType andMRZDocType:(int)MRZDocumentType;
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(int)url  isBarcodeEnable:(bool)isBE countryID:(int)countryID setBarcodeType:(BarcodeType)setBarcodeType;
 
 //-(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate;
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andcardName:(NSString*)cardName andcardType:(int)cardType;
--(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage andcheckLivess:(bool)checkLivenss;
+
+-(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage andfeedBackVideoRecordingMessage:(NSString*)feedBackVideoRecordingMessage andcheckLivess:(bool)checkLivenss labelLvienessProcess:(UILabel*)lbllivenessProcess recordingMessage:(NSString*)recordingMessage labelRecordingMSG:(UILabel*)labelRecordingMSG feedbackFMFailMessage:(NSString *)feedBackFMFailMessage andfeedBackLookLeftMessage:(NSString *)feedBackLookLeftMessage andfeedBackLookRightMessage:(NSString *)feedBackLookRightMessage andFaceInsideOvalMessage:(NSString *)FaceInsideOvalMessage andfeedBackOralInfoMessage:(NSString*)feedBackOralInfoMessage andfeedBackProcessingMessage:(NSString*)feedBackProcessingMessage;
 
 -(void)startCamera;
 -(void)stopCamera;
@@ -115,10 +124,11 @@ typedef NS_ENUM(NSInteger, CardSidetoScan) {
 -(void)isApiCallingEnable:(BOOL)isApiCallingEnable1;
 -(void)hideProgressDialogue:(BOOL)isHidden;
 -(void)APIURL:(NSString *)apiurl;
--(void)APIMETHOD:(NSString *)apiMethod;
 -(void)APIHEADER:(NSDictionary *)apiHeader;
 -(void)APITimer:(float)apitimer;
 -(void)setProgressDialogue:(NSString *)loading;
+-(void)startRecording;
+-(void)stopRecording1;
 
 @end
 #endif

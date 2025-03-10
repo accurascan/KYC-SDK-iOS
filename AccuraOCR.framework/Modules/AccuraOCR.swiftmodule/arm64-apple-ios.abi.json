@@ -844,6 +844,58 @@
           },
           {
             "kind": "Var",
+            "name": "icnMic",
+            "printedName": "icnMic",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImageResource",
+                "printedName": "AccuraOCR.ImageResource",
+                "usr": "s:9AccuraOCR13ImageResourceV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9AccuraOCR13ImageResourceV6icnMicACvpZ",
+            "mangledName": "$s9AccuraOCR13ImageResourceV6icnMicACvpZ",
+            "moduleName": "AccuraOCR",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImageResource",
+                    "printedName": "AccuraOCR.ImageResource",
+                    "usr": "s:9AccuraOCR13ImageResourceV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9AccuraOCR13ImageResourceV6icnMicACvgZ",
+                "mangledName": "$s9AccuraOCR13ImageResourceV6icnMicACvgZ",
+                "moduleName": "AccuraOCR",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "oval",
             "printedName": "oval",
             "children": [
@@ -1523,23 +1575,30 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-bdkgwawntmszxoaxenibsdzbearj\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-cesimfmlzqoomvfpcssvqslmanjj\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 741,
       "length": 16,
       "value": "\"accuraScanLogo\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-bdkgwawntmszxoaxenibsdzbearj\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-cesimfmlzqoomvfpcssvqslmanjj\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 11,
       "value": "\"icn_close\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-bdkgwawntmszxoaxenibsdzbearj\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-cesimfmlzqoomvfpcssvqslmanjj\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1013,
+      "offset": 1018,
+      "length": 9,
+      "value": "\"icn_mic\""
+    },
+    {
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraOCR-cesimfmlzqoomvfpcssvqslmanjj\/Build\/Intermediates.noindex\/AccuraOCR.build\/Debug-iphoneos\/AccuraOCR.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1145,
       "length": 6,
       "value": "\"oval\""
     }
