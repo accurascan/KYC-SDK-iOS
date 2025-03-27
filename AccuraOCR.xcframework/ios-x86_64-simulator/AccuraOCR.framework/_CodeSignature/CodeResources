@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Yo0FvWN96nBBL2nfcd6JI4hXF8Q=
+		BnFU4DTHE5+DGQ1zIqbQCKyKFbk=
 		</data>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<data>
-		kPI0Fmck3HwD9SjS/tlgPF8whAo=
+		/9C4FYVbiYCpG/PeGPYCa5QnbS4=
 		</data>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		G+Sew6zZh9IETK8Ie26eDjQbsuU=
+		zdBPleKAdBHIsSnl6+Kk54+arMI=
 		</data>
 		<key>Headers/AccuraOCR-Swift.h</key>
 		<data>
-		K1afRKCfjTuDktiEFWdkKwCpksg=
+		8wj7ddw/1X+2PtqPfxNPRjAxZKI=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		8WPNdh1ubgCUByfyug/K2f0K4Vc=
+		Oeo7uqTeQY1V1KumDw1B+bHUF9c=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Headers/NSObject+Constant.h</key>
 		<data>
-		Fnj1O8pDoyOrQwrRB0od3t8Ch68=
+		grHeo7nQWhCB26ps4OEX7nJK5Zw=
 		</data>
 		<key>Headers/NSObject+Facematch.h</key>
 		<data>
@@ -134,11 +134,11 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		hnjC1es8/X0HmVnI1nfz/t+bFYg=
+		GiJs4AmuvsTnzAceqGgihZdf+hs=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		tpAjUNe5hG8yuaB7TOkq39czrLI=
+		ZCaq+JWd63njkdnyk63d+C3xB4k=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -162,15 +162,15 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		d/PleQ9NGwjzJPDBjGyYLjvo63k=
+		yYlkWvj3AwWeLduxaAZqMfHQN/4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y1hUD+fKquWntgFDNcyrMrnTeQ0=
+		/La1E6y/yCSKw+wEDdg/TZR254o=
 		</data>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<data>
-		e1VsJcuDydn4e04d2hzLgjP3mcQ=
+		wYyTLyje0s8oO+X5OMgEQ1g/xa4=
 		</data>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		4oCR+6dsv67DBbPrj1KBL0iUZfE=
+		vsYDOb2d6RPMFCqkj4VuZMm4Y7k=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -302,7 +302,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		jGOClYf/PT58XzdgG4939svgaFw=
+		Ad7vw4iCK5yVZNGA0PeVyi3Vkkw=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -338,43 +338,43 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		ZczLTQMZq306KsAz4GJXSF+KvcU=
+		kwCZC70n7AQtFvr4/Vfsbpl9EWU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		yaS+5wQSD8YRF9gHUSPbMpaUO2o=
+		HEJ/gsp89VucoVo0hB3xberXd1Q=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		57+sCidPUhc8UeTfuI4BMJo4tOQ=
+		dk5aHv9RpHq4Vw5cnd5RYf6I5zk=
 		</data>
-		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
+		<key>Liveness.storyboardc/svs-LC-tZZ-view-1jS-6s-di1.nib</key>
 		<data>
-		1baCAKfMtmhxE0zXMdwgdL+CcC4=
+		G0f7MAtnc5ymZcMxxWUTQPT+/VA=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		mJt8p4rGb3d/QHfSq7Uzd1sw3GE=
+		kUQAkJfb8sEBeKiNFckpZtwUXKE=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		LGC4cqfxbuKoVlbmg7YPWyGz7Ds=
+		LbglhnCn9aQiZh/p74s0WaCp13c=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		uJ9W6Ofldz3+ZjG0CwqVA3o6p30=
+		NVFea0e1GJCf8NFxK1LcEC5QCt8=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		movYuCnz1r/d+RKoqJosVQ4MUpg=
+		sCrma0VOd4kTaI3ME424RZzvAyM=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		uJ9W6Ofldz3+ZjG0CwqVA3o6p30=
+		NVFea0e1GJCf8NFxK1LcEC5QCt8=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Wc8nKVw+nCZXuYZngaUrta4JOTk=
+		f61rourVNAS7eGllpRG/GJvxHh4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -384,6 +384,18 @@
 		<data>
 		a42NKC8AYfpIqKXU1P09wssgiko=
 		</data>
+		<key>accura_liveness_face.gif</key>
+		<data>
+		x6YzFO5mq/nRXX7usL796xjJwEk=
+		</data>
+		<key>accura_liveness_verified.mp3</key>
+		<data>
+		Du259eB4iTTCHTu9RaPuEXnAbqQ=
+		</data>
+		<key>approved_sign.gif</key>
+		<data>
+		qP254C52OQQWaGVqhJw8W5iSG+U=
+		</data>
 		<key>fdata.xml</key>
 		<data>
 		8MEF54k9TRXjJg++ew/DmG4lAg8=
@@ -391,6 +403,14 @@
 		<key>haarcascade_frontalface_alt.xml</key>
 		<data>
 		EkapDR99LVIq6onpPtD6ijjZk6M=
+		</data>
+		<key>haarcascade_profileface.xml</key>
+		<data>
+		xJYaVUCjvnH9QaJBfCZIXGdaDpU=
+		</data>
+		<key>leftArrow.png</key>
+		<data>
+		/qLhA2YIU/ZIp6df4g9j2q1R4F4=
 		</data>
 		<key>mMQDF_f_Passport_bottom.dic</key>
 		<data>
@@ -408,6 +428,10 @@
 		<data>
 		KI/UN33nya2KZ/QVrhqKPo+vgZ0=
 		</data>
+		<key>rightArrow.png</key>
+		<data>
+		bD48J9x1h1nmi45k/1J2rvgYqJ4=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -415,14 +439,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zje7WOw/L2u7e3uGIm7l6d73C2s7dIpyald2m1mEIVg=
+			omR3vd1IRLMP4zTgYfxPgMMJ5IS9EoAzTPP486IlNUc=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			api4OpOYD2bKa5/FBXOs6RUFeQge6+tIgY+i3moCeRA=
+			Gn36d5+/VbJ7fYZ2Td/6ytq5Zp9tPaBuup7T544COKs=
 			</data>
 		</dict>
 		<key>ChineseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -541,14 +565,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nNYMtOZL8A1hStNTsHDuM+UrHkOLZ9BC8nlIHOQgDec=
+			Oy5RmPD+x26JIOyZucwhWv459xQOr6dzxDGeLh30Cjg=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VsEkZRN9hRHCvBVCIARU4iq4VpIw3nkY4pGeDC+pinM=
+			10EwlHzCmK6Xo0Exj/FWyLAWdxs5pcFLDnW9KChor6o=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
@@ -611,7 +635,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/WfbpfSQGiduGM8cczmxrShPTayrF8VM5zRS3ivVkJg=
+			BjI4uTT5owD1NdisHHfuxpg7PfLZJhaBsI7Jr+TS6g8=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -625,7 +649,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+pDhyohuv4XnHcG0q2XIudFy5M+Ea+6H+w4S/n2to8Q=
+			z3i+Qzz0+IkosMGQRbut1wjwZ0q4bcoVu6pfs1SqC+Q=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Facematch.h</key>
@@ -639,14 +663,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dT0g9R2++MiIX2pCBLcY9VC62RFV8+Pgo7SD5j/bfmw=
+			CgZxJ5B1AlghtJYvhR6HBiRV3NFL9O1P+T2h5uZBRqA=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7gpvWqVk3wlnlrYT9bKrPgVNAAaEzLGMogPhYdneEjo=
+			2LtIh4fcR9XIqlydGHUd99IbW49qsqo0ZpnIFVuxCb8=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -688,14 +712,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ojgIUQVSr5uV79qn8mrW/c3mguCJRRf4QCMdsgWhWUA=
+			buv2EnWfEmOaI9bQfWODcwWVP4uwb0rxvDxscnasm88=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ubIwBSIHUzYTGfOzLoWnQuxrI9eJOwubNQ+IF4R38J8=
+			T1+Pg7vNhKL6qyKDJEo9pU6ukBp6ItIitvbY5w2SAiE=
 			</data>
 		</dict>
 		<key>JapaneseOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -807,7 +831,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kF5sE2JQ7zAawz+YXZ75Q279rVjsewfnN28pHiLr/Vw=
+			XtG7iovjeoYTYyJym55dH7kbWcLPkN+HRPa+kuEjSSo=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -926,7 +950,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AdCErZzSHPnqsaALzuAiB3TI9L2BnVJKl6RmdlVa8dk=
+			AD9B8Ap0jEVZh+VUK01cG6Z8ClWcATi2tetBawE0lfs=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -989,70 +1013,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
+			1Hn1OBOYkz1QQQXNpJQR7sZzVMgIdVmzfY+Kpg2XBVs=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hnPy79rxY+kn24xdMY6Zr2cZUXgBq/uaoRyJEULCFNQ=
+			7OBJPrXmQXUg5HbmXu711DG/c+tpWV9TJ3XaOPvuYO8=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wD/zNqAcZWMKpIRxzFz2VEhOy+6NDEicRhRRMRgI6qI=
+			V8vgryuks8deKwHucjzKw8x2UCYFT6wl9bQixTgQFNY=
 			</data>
 		</dict>
-		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
+		<key>Liveness.storyboardc/svs-LC-tZZ-view-1jS-6s-di1.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ofMmEz1CwpCEcwjBmCxSkAipAMl5KGDttIgelF1HL6U=
+			cTchYjDTiH9BmAijdSeBc/jjJ3FclEVBq/3FDbZfxXs=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QtGSjb6Lp6b6z629VrdYyrllgaND1hi50VEqYa4czyQ=
+			R9gL06lcd8nP/Tm54Bd8TLfQ+nFpszWZEfQaR9hyinw=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			36xQGwMojXTENfkV65O8Zi40ntTKkjTY1k9BeJa6vXM=
+			a+kcsULSEq5qVsp8oFNEy5Wjra2EAWUmCh52kViDlEw=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JNYkt87fg9yXU3CACpyNaUttvzTIyZ0SM9RzDby/e0o=
+			bc6vI4OUlLD6MHFbsqm3UC3G/+dh2dw29uBb1SPphCg=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rp55iZ5FbKfKhPyK20ksRcuU876eDkzyuqoxRCm4w4A=
+			M22kRTpN1gBc2VmaLjY7cQZ0it4IGgIdSOPPXp+9KYk=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JNYkt87fg9yXU3CACpyNaUttvzTIyZ0SM9RzDby/e0o=
+			bc6vI4OUlLD6MHFbsqm3UC3G/+dh2dw29uBb1SPphCg=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B+17E7Z/A9P9kJBCUpxLToXhp3vm/6EYr2Uq0rQMUq4=
+			Ft9eeINlCfeGuVsIziLAS6zo/SOZ4QsnanBjfF3L6ts=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1069,6 +1093,27 @@
 			zEbjfQYuo7pNlXenrRr/X0hMrvgL86AR291RUg9UnGE=
 			</data>
 		</dict>
+		<key>accura_liveness_face.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5wwdXLdcHsGI3hnR4cS1RsnRb35Bdb3sNbrcEDDwJEw=
+			</data>
+		</dict>
+		<key>accura_liveness_verified.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			31hNE/igKb6d0Uey0oKnMQbX0IXSP4ZS8Y6tXUVAdkg=
+			</data>
+		</dict>
+		<key>approved_sign.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dJbYCWKrKeDHtBqGU6VdENPdJNmdr8r6N/Mn3mnb/wE=
+			</data>
+		</dict>
 		<key>fdata.xml</key>
 		<dict>
 			<key>hash2</key>
@@ -1081,6 +1126,20 @@
 			<key>hash2</key>
 			<data>
 			YoHfE0Wcwhj/BH0Csq44WbEv8UqT/+iVL3sz+te5aXs=
+			</data>
+		</dict>
+		<key>haarcascade_profileface.xml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s5pKO+RVOdsUan/B0+dhopLBluuIQhGF5qYVswVeYS0=
+			</data>
+		</dict>
+		<key>leftArrow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZkTgm0pIu+8OE5xPFOS0JWm5lFPBS1PEOzGCq1X+mGo=
 			</data>
 		</dict>
 		<key>mMQDF_f_Passport_bottom.dic</key>
@@ -1109,6 +1168,13 @@
 			<key>hash2</key>
 			<data>
 			W2r1A1b+3he9yJ+E9Rh+nzJ1SSkg0XePSttx+1e4MOQ=
+			</data>
+		</dict>
+		<key>rightArrow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FOLMYV+SREPAdDhWKClY3MJrTx26s/JkX4bAAIDZjm4=
 			</data>
 		</dict>
 	</dict>

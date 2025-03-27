@@ -23,6 +23,11 @@ typedef NS_ENUM(NSUInteger, RecogType) {
     MRZ
 };
 
+typedef NS_ENUM(int, LivenessType)
+{
+    DEFAULT = 0, LOOK_LEFT = 1, LOOK_RIGHT = 2, ORAL_VERIFICATION = 3, APPROVED = 4
+};
+
 @protocol VideoCameraWrapperDelegate <NSObject>
 @optional
 -(void)processedImage:(UIImage*)image;
@@ -34,7 +39,9 @@ typedef NS_ENUM(NSUInteger, RecogType) {
 
 -(void)resultData:(ResultModel*)resultmodel;
 -(void)reco_msg:(NSString*)message;
--(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage;
+-(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage imagePath:(NSString*)imagePath;
+-(void)getRandomNumber:(NSString*)randomNumber;
+-(void)didChangedLivenessType:(LivenessType)faceDirection;
 -(void)screenSound;
 -(void)onUpdateLayout:(CGSize)frameSize :(float)borderRatio;
 -(void)recognizeSucceedBarcode:(NSString*)message backImage:(UIImage*)BackSideImage frontImage:(UIImage*)FrontImage faceImage:(UIImage*)FaceImage;
